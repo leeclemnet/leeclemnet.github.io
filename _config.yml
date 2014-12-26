@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Lee Clement
+tagline:          'A Ph.D. student in Toronto'
+description:      'A Ph.D. Student studying Mobile Robotics at the Unviersity of Toronto'
+baseurl:          /
+
+author:
+  name:           'Lee Clement'
+  twitter:        https://twitter.com/leeclemnet
+  google:		  https://google.com/+LeeClement
+  linkedin:	      https://ca.linkedin.com/pub/lee-clement/94/6a2/b96/
+  github:		  https://github.com/leeclemnet
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/leeclemnet/leeclemnet.github.io
