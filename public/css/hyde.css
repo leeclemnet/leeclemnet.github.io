@@ -276,5 +276,8 @@ a.sidebar-contact-item:focus {
 }
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
+  color: #6a9fb5;
+}
+.theme-base-10 .post-title a {
   color: #22313f;
 }
