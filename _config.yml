@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Lee Clement
-tagline:          'A PhD student in Toronto'
-description:      'A PhD Student studying Mobile Robotics at the Unviersity of Toronto'
+tagline:          'A PhD Candidate in Toronto'
+description:      'A PhD Candidate studying Mobile Robotics at the Unviersity of Toronto'
 baseurl:          /
 
 author:
