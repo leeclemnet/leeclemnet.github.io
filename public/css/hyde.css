@@ -55,7 +55,7 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 4rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
@@ -65,16 +65,16 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
-    text-align: left;
+    width: 17rem;
+    text-align: center;
   }
 
-  .sidebar-contact {
+  /*.sidebar-contact {
     position: absolute;
     right:  1rem;
     bottom: 2rem;
     left:   1rem;
-  }
+  }*/
 }
 
 /* Sidebar links */
@@ -88,6 +88,12 @@ html {
   margin-top: 0;
   font-family: "Georgia", serif;
   font-size: 2.5rem;
+}
+
+/* Sidebar lead */
+.sidebar-lead {
+  font-size: 1.1rem;
+  font-weight: 300;
 }
 
 /* Sidebar nav */
