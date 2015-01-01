@@ -17,6 +17,7 @@
 /*
  * Contents
  *
+ * Font imports
  * Global resets
  * Sidebar
  * Container
@@ -24,6 +25,10 @@
  * Themes
  */
 
+/*
+ * Font imports
+ */
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:300,700);
 
 /*
  * Global resets
@@ -32,7 +37,7 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -41,10 +46,18 @@ html {
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+}
+
+.post-title, .page-title {
+  font-weight: 700;
+}
 
 /*
  * Sidebar
@@ -65,7 +78,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 17rem;
+    width: 18rem;
     text-align: center;
   }
 
@@ -86,8 +99,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Georgia", serif;
-  font-size: 2.5rem;
+  font-family: "Roboto Slab", serif;
+  font-size: 3rem;
 }
 
 /* Sidebar lead */
@@ -118,7 +131,7 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-contact-header {
   display: block;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
 }
 .sidebar-contact-item {
   display: inline;
@@ -196,7 +209,30 @@ a.sidebar-contact-item:focus {
   }
 }
 
+/*
+ * Gallery
+ *
+ * Flexible housing for images
+ */
 
+.gallery .galleryimage {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+.gallery .galleryimage figcaption {
+  margin: auto auto 1.0rem auto;
+}
+
+@media (min-width: 48em) {
+  .gallery .galleryimage {
+    width: 45%;
+    display: inline-block;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+}
 
 /*
  * Themes
