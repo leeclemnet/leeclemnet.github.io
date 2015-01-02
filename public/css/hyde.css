@@ -17,7 +17,6 @@
 /*
  * Contents
  *
- * Font imports
  * Global resets
  * Sidebar
  * Container
@@ -25,10 +24,6 @@
  * Themes
  */
 
-/*
- * Font imports
- */
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400,700|Roboto:300,700);
 
 /*
  * Global resets
@@ -206,31 +201,6 @@ a.sidebar-contact-item:focus {
   .layout-reverse .content {
     margin-left: 4rem;
     margin-right: 22rem;
-  }
-}
-
-/*
- * Gallery
- *
- * Flexible housing for images
- */
-
-.gallery .galleryimage {
-  width: 90%;
-  margin: auto;
-  text-align: center;
-}
-
-.gallery .galleryimage figcaption {
-  margin: auto auto 1.0rem auto;
-}
-
-@media (min-width: 48em) {
-  .gallery .galleryimage {
-    width: 45%;
-    display: inline-block;
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
   }
 }
 
