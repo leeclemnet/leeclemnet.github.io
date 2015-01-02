@@ -6,13 +6,13 @@ title: What I Do
 ## Research Projects
 <div class="gallery">
 	<figure class="gallery-image">
-		<img src="{{ site.url }}/assets/husky-marsdome-mvtr.JPG"/></a>
+		<img src="{{ site.url }}/assets/pics/husky-marsdome-mvtr.JPG"/></a>
 		<figcaption>Monocular Visual Teach &amp; Repeat</figcaption>
 	</figure>
 </div>
 
 ## Publications
-<b>Clement L</b>, Kelly J, Barfoot TD. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session, 2014. Montreal, Quebec. [<a href="{{ site.url }}/assets/MonoVTR - NCFRN 2014 - print.PDF">PDF</a>]
+<b>Clement L</b>, Kelly J, Barfoot TD. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session, 2014. Montreal, Quebec. [<a href="{{ site.url }}/assets/docs/MonoVTR - NCFRN 2014 - print.PDF">PDF</a>]
 
 Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W.
 "Implementation of a nanosatellite attitude determination and control system for the T-Sat1 mission".

@@ -3,7 +3,7 @@ layout: page
 title: Who I Am
 ---
 
-<img src="{{ site.url }}/assets/headshot.JPG" style="float: right; margin-right: 1rem; margin-left: 1rem; margin-bottom:1rem"/>
+<img src="{{ site.url }}/assets/pics/headshot.JPG" style="float: right; margin-right: 1rem; margin-left: 1rem; margin-bottom:1rem"/>
 
 Hi there! My name is Lee and I'm a Ph.D. Candidate in the Space and Terrestrial Autonomous Robotic Systems (<a href="http://stars.utias.utoronto.ca/">STARS</a>) Lab at the University of Toronto Institute for Aerospace Studies (<a href="http://utias.utoronto.ca/">UTIAS</a>). I hold two Bachelor's degrees from the <a href="http://umanitoba.ca">University of Manitoba</a>, one in Commerce (B.Comm.) and one in Physics and Computer Science (B.Sc.).
 
