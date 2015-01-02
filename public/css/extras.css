@@ -80,6 +80,5 @@
     }
     .close:hover {
         background: #6a9fb5;
-        transition: background 100ms ease-in;
     }
 }
