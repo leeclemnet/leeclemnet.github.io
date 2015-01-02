@@ -46,11 +46,12 @@ html {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Slab", serif;
-  font-weight: 400;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
 }
 
 .post-title, .page-title {
+  font-family: "Roboto Slab", serif;
   font-weight: 700;
 }
 
@@ -96,6 +97,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   font-family: "Roboto Slab", serif;
   font-size: 3rem;
+  font-weight: 400;
 }
 
 /* Sidebar lead */
@@ -110,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75;
+  line-height: 1.75rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -131,10 +133,12 @@ a.sidebar-nav-item:focus {
 .sidebar-contact-item {
   display: inline;
   font-size: 0.75rem;
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
 }
 a.sidebar-contact-item:hover,
 a.sidebar-contact-item:focus {
-  text-decoration: underline;
+  text-decoration: underline
 }
 
 /* Sticky sidebar
