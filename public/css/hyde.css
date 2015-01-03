@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-nav-item {
   display: block;
-  line-height: 1.75rem;
+  line-height: 2.0rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
