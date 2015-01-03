@@ -133,8 +133,6 @@ a.sidebar-nav-item:focus {
 .sidebar-contact-item {
   display: inline;
   font-size: 0.75rem;
-  margin-left: 0.1rem;
-  margin-right: 0.1rem;
 }
 a.sidebar-contact-item:hover,
 a.sidebar-contact-item:focus {

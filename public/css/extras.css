@@ -14,22 +14,27 @@
  * Flexible housing for images
  */
 .gallery-image {
-  width: 90%;
-  margin: auto;
-  text-align: center;
+    width: 90%;
+    margin: auto;
+    text-align: center;
 }
-
+.gallery-image img {
+    margin: 1rem auto auto auto;
+}
 .gallery-image figcaption {
-  margin: auto auto 1.0rem auto;
+    margin: auto;
 }
 
 @media (min-width: 48em) {
-  .gallery-image {
-    width: 45%;
-    display: inline-block;
-    margin-left: 0.5rem;
-    margin-right: 0.5rem;
-  }
+    .gallery {
+        margin-top: -0.5rem;
+    }
+    .gallery-image {
+        width: 45%;
+        display: inline-block;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
 }
 
 /*
