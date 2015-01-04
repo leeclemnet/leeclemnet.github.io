@@ -1,6 +1,9 @@
 ---
 layout: page
 title: What I Do
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
 ---
 
 ## Research Projects

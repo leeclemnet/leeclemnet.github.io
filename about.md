@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Who I Am
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
 ---
 
 <img src="{{ site.url }}/assets/pics/headshot.JPG" style="float: right; margin-right: 1rem; margin-left: 1rem; margin-bottom:1rem"/>
