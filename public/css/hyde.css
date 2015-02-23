@@ -111,8 +111,10 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  display: block;
+  display: inline-block;
   line-height: 2.0rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -121,10 +123,17 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
   font-weight: bold;
 }
+@media (min-width: 48em) {
+  .sidebar-nav-item {
+    display: block;
+    margin: auto;
+  }
+}
 
 /* Contact section */
 .sidebar-contact {
   text-align: center;
+  border-top: 1px;
 }
 .sidebar-contact-header {
   display: block;
