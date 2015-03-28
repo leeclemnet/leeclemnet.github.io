@@ -6,23 +6,18 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-## Research Projects
-<div class="gallery">
-	<figure class="gallery-image">
-		<img src="{{ site.url }}/assets/pics/husky-marsdome-mvtr.JPG"/></a>
-		<figcaption>Monocular Visual Teach &amp; Repeat</figcaption>
-	</figure>
-</div>
-
-
 ## Publications
 <ol>
 
-<li> <b>Clement L</b>, Kelly J, Barfoot TD. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session, 2014. Montreal, Quebec. [<a href="{{ site.url }}/assets/docs/MonoVTR - NCFRN 2014 - print.PDF">PDF</a>] </li>
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "Monocular Visual Teach and Repeat Aided by Local Ground Planarity". In Proceedings of Field and Service Robotics (FSR), to appear. Toronto, Ontario, 24-26 June 2015.</li>
+
+<li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV), to appear. Halifax, Nova Scotia, 3-5 June 2015.</li>
+
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.[<a href="{{ site.url }}/assets/docs/MonoVTR - NCFRN 2014 - print.PDF">PDF</a>] </li>
 
 <li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W.
 "Implementation of a nanosatellite attitude determination and control system for the T-Sat1 mission".
-Proc. Canadian Conf. Electrical and Computer Engineering (CCECE) p. 1-5, 2013.
+In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013.
 doi: <a href="http://dx.doi.org/10.1109/CCECE.2013.6567796">10.1109/CCECE.2013.6567796</a> </li>
 
 </ol>

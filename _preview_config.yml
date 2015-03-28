@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Lee Clement
 tagline:          'A Grad Student in Toronto'
-description:      'A Ph.D. Student studying Mobile Robotics at the University of Toronto'
+description:      'A Ph.D. Candidate studying Mobile Robotics at the University of Toronto'
 url: 			  http://localhost:4000
 baseurl:          /
 
