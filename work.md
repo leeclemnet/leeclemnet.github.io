@@ -9,11 +9,11 @@ sitemap:
 ## Publications
 <ol>
 
-<li> <b>Clement L</b>, Kelly J, Barfoot T D. "Monocular Visual Teach and Repeat Aided by Local Ground Planarity". In Proceedings of Field and Service Robotics (FSR), to appear. Toronto, Ontario, 24-26 June 2015.</li>
+<li> <b>Clement L E</b>, Kelly J, Barfoot T D. "Monocular Visual Teach and Repeat Aided by Local Ground Planarity". In Proceedings of Field and Service Robotics (FSR), to appear. Toronto, Ontario, 24-26 June 2015. [<a href="{{ site.url }}/assets/docs/fsr2015.pdf">PDF</a>]</li>
 
-<li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV), to appear. Halifax, Nova Scotia, 3-5 June 2015.</li>
+<li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV), to appear. Halifax, Nova Scotia, 3-5 June 2015. [<a href="{{ site.url }}/assets/docs/crv2015.pdf">PDF</a>] </li>
 
-<li> <b>Clement L</b>, Kelly J, Barfoot T D. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.[<a href="{{ site.url }}/assets/docs/MonoVTR - NCFRN 2014 - print.PDF">PDF</a>] </li>
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "Monocular vision for long-range visual teach and repeat in unstructured environments". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014. [<a href="{{ site.url }}/assets/docs/ncfrn2014.pdf">PDF</a>] </li>
 
 <li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W.
 "Implementation of a nanosatellite attitude determination and control system for the T-Sat1 mission".
