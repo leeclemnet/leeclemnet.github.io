@@ -8,6 +8,17 @@
  */
 
 /*
+ * Publication list
+ */
+.pub-list {
+  font-size: 14px;
+}
+
+.pub-list b {
+  font-weight: 500;
+}
+
+/*
  * Gallery
  *
  * Flexible housing for images
