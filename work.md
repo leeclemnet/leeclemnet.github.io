@@ -9,8 +9,8 @@ sitemap:
 ## Publications
 <div class="pub-list"> <ol>
 
-<li> Clement L, Kelly J, Barfoot T D. "<b>Monocular Visual Teach and Repeat Aided by Local Ground Planarity</b>". In Proceedings of Field and Service Robotics (FSR), to appear. Toronto, Ontario, 24-26 June 2015.<br/>
-  [<a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_paper.pdf">Paper</a>]
+<li> Clement L, Kelly J, Barfoot T D. "<b>Monocular Visual Teach and Repeat Aided by Local Ground Planarity</b>". In Proceedings of the 10th Conference on Field and Service Robotics (FSR). Toronto, Ontario, 24-26 June 2015.<br/>
+  [<a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_paper.pdf">Paper</a>] [<a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_slides.pdf">Slides</a>]
 </li>
 
 <li> Clement L, Peretroukhin V, Lambert J, Kelly J. "<b>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</b>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3-5 June 2015.<br/>
