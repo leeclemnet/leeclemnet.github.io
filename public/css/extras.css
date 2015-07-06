@@ -1,99 +1,18 @@
 /*
  * Extra CSS goodies
- *
- * Contents
- *
- * Gallery
- * Modal dialog
  */
 
 /*
  * Publication list
  */
 .pub-list {
-  font-size: 14px;
+  font-size: 1rem;
 }
 
 .pub-list b {
   font-weight: 500;
 }
 
-/*
- * Gallery
- *
- * Flexible housing for images
- */
-.gallery-image {
-    width: 90%;
-    margin: auto;
-    text-align: center;
-}
-.gallery-image img {
-    margin: 1rem auto auto auto;
-}
-.gallery-image figcaption {
-    margin: auto;
-}
-
-@media (min-width: 48em) {
-    .gallery {
-        margin-top: -0.5rem;
-    }
-    .gallery-image {
-        width: 45%;
-        display: inline-block;
-        margin-left: 0.5rem;
-        margin-right: 0.5rem;
-    }
-}
-
-/*
- * Modal dialog (wide window only)
- */
-.modal-dialog {
-    position: fixed;
-    visibility: hidden;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background: rgba(0, 0, 0, 0.8);
-    z-index: 99999;
-    opacity:0;
-    transition: opacity 200ms ease-in;
-    pointer-events: none;
-}
-
-@media (min-width: 48em) {
-    .modal-dialog:target {
-        opacity:1;
-        pointer-events: auto;
-        visibility: visible;
-    }
-    .modal-dialog > div {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        width: 75%;
-        margin: auto;
-        border-radius: 5px;
-    }
-    .close {
-        background: #666;
-        color: #fff !important;
-        line-height: 2rem;
-        position: absolute;
-        right: -1rem;
-        text-align: center;
-        font-size: 1.2rem;
-        top: -1rem;
-        width: 2rem;
-        font-weight: bold;
-        border-radius: 1rem;
-        box-shadow: -0.2rem 0.2rem 0.4rem #333;
-    }
-    .close:hover {
-        background: #6a9fb5;
-    }
+.pub-list li {
+  margin-bottom: 0.5rem;
 }

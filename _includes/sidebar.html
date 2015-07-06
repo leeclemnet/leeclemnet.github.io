@@ -1,14 +1,13 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <h1>
-        {{ site.title }}
-      </h1>
+      <h1> {{ site.title }} </h1>
       <p class="sidebar-lead">{{ site.description }}</p>
+      <img src="{{ site.url }}/assets/pics/headshot2.jpg"/>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">News</a>
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">About Lee</a>
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
@@ -25,13 +24,12 @@
       {% endfor %}
     </nav>
 
-    <nav class="sidebar-contact">
-      <span class="sidebar-contact-header">Elsewhere</span>
-      <a class="sidebar-contact-item" href="{{ site.author.twitter }}">Twitter</a> &middot;
-      <a class="sidebar-contact-item" href="{{ site.author.google }}">Google+</a> &middot;
-      <a class="sidebar-contact-item" href="{{ site.author.linkedin }}">LinkedIn</a> &middot;
-      <a class="sidebar-contact-item" href="{{ site.author.github }}">GitHub</a>
-    </nav>
+    <div class="sidebar-contact">
+      <a class="sidebar-contact-item" href="{{ site.author.twitter }}"><i class="fa fa-twitter"></i></a>
+      <a class="sidebar-contact-item" href="{{ site.author.google }}"><i class="fa fa-google-plus"></i></a>
+      <a class="sidebar-contact-item" href="{{ site.author.linkedin }}"><i class="fa fa-linkedin"></i></a>
+      <a class="sidebar-contact-item" href="{{ site.author.github }}"><i class="fa fa-github"></i></a>
+    </div>
 
   </div>
 </div>

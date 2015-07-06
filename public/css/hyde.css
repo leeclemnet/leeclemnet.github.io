@@ -40,11 +40,6 @@ html {
     font-size: 16px;
   }
 }
-@media (min-width: 58em) {
-  html {
-    font-size: 18px;
-  }
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
@@ -75,7 +70,7 @@ h1, h2, h3, h4, h5, h6 {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 20rem;
     text-align: center;
   }
 
@@ -97,25 +92,38 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   margin-top: 0;
   font-family: "Roboto Slab", serif;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 400;
+}
+
+.sidebar-about img {
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  display: block;
+  margin: 1.5rem auto;
+  border: 2px solid #fff;
 }
 
 /* Sidebar lead */
 .sidebar-lead {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   font-weight: 300;
+  margin-top: 1.5rem;
 }
 
 /* Sidebar nav */
 .sidebar-nav {
-  margin-bottom: 1rem;
+  margin-top: 1.5rem;
 }
 .sidebar-nav-item {
   display: inline-block;
-  line-height: 2.0rem;
+  line-height: 2rem;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
+  font-size: 1.1rem;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -127,26 +135,32 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-nav-item {
     display: block;
-    margin: auto;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
   }
 }
 
 /* Contact section */
 .sidebar-contact {
   text-align: center;
-  border-top: 1px;
+  margin-top: 1.5rem;
 }
 .sidebar-contact-header {
   display: block;
   font-size: 0.85rem;
 }
 .sidebar-contact-item {
-  display: inline;
-  font-size: 0.75rem;
+  display: inline-block;
+  font-size: 1.8rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
 }
-a.sidebar-contact-item:hover,
-a.sidebar-contact-item:focus {
-  text-decoration: underline
+.sidebar-contact-item i {
+  color: rgba(255, 255, 255, 0.5);
+}
+a.sidebar-contact-item i:hover,
+a.sidebar-contact-item i:focus {
+  color: #fff;
 }
 
 /* Sticky sidebar
@@ -172,22 +186,22 @@ a.sidebar-contact-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    5rem;
+  padding-bottom: 5rem;
 }
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
-    margin-left: 20rem;
-    margin-right: 2rem;
+    max-width: 42rem;
+    margin-left: 22rem;
+    margin-right: 3rem;
   }
 }
 
 @media (min-width: 64em) {
   .content {
-    margin-left: 22rem;
-    margin-right: 4rem;
+    margin-left: 24rem;
+    margin-right: 6rem;
   }
 }
 
@@ -299,12 +313,12 @@ a.sidebar-contact-item:focus {
 
 /* Dark Blue */
 .theme-base-10 .sidebar {
-  background-color: #22313f;
+  background-color: #334759;
 }
 .theme-base-10 .content a,
 .theme-base-10 .related-posts li a:hover {
-  color: #6a9fb5;
+  color: #128FFF;
 }
 .theme-base-10 .post-title a {
-  color: #22313f;
+  color: #334759;
 }

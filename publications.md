@@ -1,12 +1,11 @@
 ---
 layout: page
-title: What I Do
+title: Publications
 sitemap:
   priority: 0.7
   changefreq: 'monthly'
 ---
 
-## Publications
 <div class="pub-list"> <ol>
 
 <li> Peretroukhin V, Clement L, Giamou M, Kelly J. "<b>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</b>". In Proceedings of the 2015 IEEE/RSJ International Conference on Robotics and Automation, to appear. Hamburg, Germany, 28 September - 2 October 2015.<br/>
@@ -22,7 +21,7 @@ sitemap:
 </li>
 
 <li> Peretroukhin V, Clement L, Kelly J. "<b>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</b>". Presented at the Workshop on Scaling Up Active Vision, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26-30 May 2015.<br/>
-  [<a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf">Poster</a>] [<a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf">Slides</a>]
+  [<a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf">Extended Abstract</a>] [<a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf">Poster</a>] [<a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf">Slides</a>]
 </li>
 
 <li> Clement L, Kelly J, Barfoot T D. "<b>Monocular vision for long-range visual teach and repeat in unstructured environments</b>". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
