@@ -97,11 +97,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar-about img {
-  max-width: 200px;
-  max-height: 200px;
-  border-radius: 100px;
-  -webkit-border-radius: 100px;
-  -moz-border-radius: 100px;
+  max-width: 10rem;
+  max-height: 10rem;
+  border-radius: 5rem;
+  -webkit-border-radius: 5rem;
+  -moz-border-radius: 5rem;
   display: block;
   margin: 1.5rem auto;
   border: 2px solid #fff;
@@ -133,6 +133,13 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 @media (min-width: 48em) {
+  .sidebar-about img {
+    max-width: 12rem;
+    max-height: 12rem;
+    border-radius: 6rem;
+    -webkit-border-radius: 6rem;
+    -moz-border-radius: 6rem;
+  }
   .sidebar-nav-item {
     display: block;
     margin-left: 0.5rem;
