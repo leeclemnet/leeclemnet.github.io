@@ -28,7 +28,7 @@ sitemap:
   [<a href="{{ site.url }}/assets/docs/ncfrn2014_monoVTR_poster.pdf">Poster</a>]
 </li>
 
-<li> Russell B, Clement L, Hernandez J, Byagowi A, Schor D, Kinsner W. "<b>Implementation of a nanosatellite attitude determination and control system for the T-Sat1 mission</b>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
+<li> Russell B, Clement L, Hernandez J, Byagowi A, Schor D, Kinsner W. "<b>Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission</b>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
   doi: <a href="http://dx.doi.org/10.1109/CCECE.2013.6567796">10.1109/CCECE.2013.6567796</a>
 </li>
 
