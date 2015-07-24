@@ -8,7 +8,7 @@ sitemap:
 
 <div class="pub-list"> <ol>
 
-<li> Peretroukhin V, Clement L, Giamou M, Kelly J. "<b>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</b>". In Proceedings of the 2015 IEEE/RSJ International Conference on Robotics and Automation, to appear. Hamburg, Germany, 28 September - 2 October 2015.<br/>
+<li> Peretroukhin V, Clement L, Giamou M, Kelly J. "<b>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</b>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), to appear. Hamburg, Germany, 28 September - 2 October 2015.<br/>
   [<a href="{{ site.url }}/assets/docs/iros2015_PROBE_paper.pdf">Paper</a>]
 </li>
 
