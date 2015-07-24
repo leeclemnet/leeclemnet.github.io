@@ -24,7 +24,7 @@ sitemap:
   [<a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf">Extended Abstract</a>] [<a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf">Poster</a>] [<a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf">Slides</a>]
 </li>
 
-<li> Clement L, Kelly J, Barfoot T D. "<b>Monocular vision for long-range visual teach and repeat in unstructured environments</b>". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
+<li> Clement L, Kelly J, Barfoot T D. "<b>Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments</b>". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
   [<a href="{{ site.url }}/assets/docs/ncfrn2014_monoVTR_poster.pdf">Poster</a>]
 </li>
 
