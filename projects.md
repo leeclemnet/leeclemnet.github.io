@@ -24,7 +24,7 @@ In this project I investigated how monocular vision and assumptions about the en
 <a href="http://seds.ca">
 <img src="{{ site.url }}/assets/pics/seds.png" height="128pt"/>
 </a>
-SEDS-Canada is a national student-led not-for-profit organization dedicated to improving the Canadian space sector. As Director of Finance, I handle the organization's finances, contribute to fundraising efforts, and administer its IT resources and website.
+SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit organization dedicated to improving the Canadian space sector. As Director of Finance, I manage the organization's finances, contribute to fundraising efforts, and administer its IT resources and website.
 </li>
 
 <li>
@@ -32,7 +32,7 @@ SEDS-Canada is a national student-led not-for-profit organization dedicated to i
 <a href="http://arrow.utias.utoronto.ca/~asa/">
 <img src="{{ site.url }}/assets/pics/asa.png" height="128pt"/>
 </a>
-The ASA is responsible for organizing athletic and social events at UTIAS. As Social Representative, I organize a variety of fun events like Trivia Night, Pancake Breakfasts, and even Room Escapes.
+The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As Social Representative, I organize a variety of fun events like Trivia Night, Pancake Breakfasts, and even Room Escapes.
 </li>
 
 <li>
