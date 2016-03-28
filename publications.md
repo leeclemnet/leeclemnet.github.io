@@ -31,6 +31,7 @@ My current research focus is on improving the robustness of visual navigation al
 <a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="https://youtu.be/FU6KeWgwrZ4"><i class="fa fa-film fa-fw"></i> Talk</a>
+| <a href="http://dx.doi.org/10.1007/978-3-319-27702-8_36"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
 <li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "<u>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</u>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3-5 June 2015.<br/>
