@@ -9,22 +9,26 @@ sitemap:
 <h3>Research Projects</h3>
 <ul>
 <li>
+<h4>Simultaneous Localization, Mapping, and Illumination Estimation</h4>
+<img src="{{ site.url }}/assets/pics/dense_stereo.png" height="128pt"/>
+I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous vehicles.
+</li>
+
+<li>
 <h4>Monocular Visual Teach and Repeat</h4>
-<a href="{{ site.url }}/publications/">
 <img src="{{ site.url }}/assets/pics/husky_frames.png" height="128pt"/>
-</a>
-In this project I investigated how monocular vision and assumptions about the environment could be used to enable autonomous vehicles to achieve centimeter-accurate path-following over kilometer-scale outdoor routes, even under changing lighting conditions.
+In this project I looked at how monocular vision could enable autonomous vehicles to achieve centimeter-accurate path-following over kilometer-scale outdoor routes, even under changing lighting conditions.
 </li>
 </ul>
 
 <h3>On The Side</h3>
 <ul>
 <li>
-<h4>Director of Finance, <a href="http://seds.ca">SEDS-Canada</a></h4>
+<h4>Director, <a href="http://seds.ca">SEDS-Canada</a></h4>
 <a href="http://seds.ca">
 <img src="{{ site.url }}/assets/pics/seds.png" height="128pt"/>
 </a>
-SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit organization dedicated to improving the Canadian space sector. As Director of Finance, I manage the organization's finances, contribute to fundraising efforts, and administer its IT resources and website.
+SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit organization dedicated to improving the Canadian space sector. As a member of the Board of Directors, I manage the organization's finances, contribute to fundraising efforts, and administer its IT resources and website.
 </li>
 
 <li>

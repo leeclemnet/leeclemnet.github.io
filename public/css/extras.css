@@ -16,3 +16,21 @@
 .pub-list li {
   margin-bottom: 0.5rem;
 }
+
+/*
+ * Split ordered lists
+ */
+ol.start {
+    counter-reset: olcounter;
+}
+ol.start li, ol.continue li {
+    list-style: none;
+    text-indent: -1.5rem;
+}
+ol.start li:before, ol.continue li:before {
+    content: "[" counter(olcounter) "]\00A0";
+    counter-increment: olcounter;
+}
+ol.start i:before, ol.continue i:before {
+    padding-left: 1.5rem;
+}

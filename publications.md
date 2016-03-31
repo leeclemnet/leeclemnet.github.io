@@ -6,19 +6,20 @@ sitemap:
   changefreq: 'monthly'
 ---
 
-My current research focus is on improving the robustness of visual navigation algorithms for autonomous vehicles by incorporating additional information about the environment such as lighting and material properties to predict appearance changes over time.
+<div class="pub-list">
 
 <h3>Journal and Magazine Articles</h3>
-<div class="pub-list"> <ol>
+<ol class="start">
 
-<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 2016. <i>Under review</i>.
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, to appear, 2016.<br/>
+<a href="{{ site.url }}/assets/docs/jfr2016_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 </li>
 
-</ol> </div>
+</ol>
 
 <h3>Conference Publications</h3>
-<h4>Full Paper Refereed</h4>
-<div class="pub-list"> <ol>
+<h4>Full-Paper-Refereed</h4>
+<ol class="continue">
 
 <li> Peretroukhin V, <b>Clement L</b>, Giamou M, Kelly J. "<u>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</u>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hamburg, Germany, 28 September - 2 October 2015.<br/>
 <a href="{{ site.url }}/assets/docs/iros2015_PROBE_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
@@ -44,11 +45,10 @@ My current research focus is on improving the robustness of visual navigation al
 <a href="http://dx.doi.org/10.1109/CCECE.2013.6567796"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
-</ol> </div>
+</ol>
 
-<h3>Other</h3>
-<h4>Workshop Papers</h4>
-<div class="pub-list"> <ol>
+<h4>Abstract-Refereed</h4>
+<ol class="continue">
 
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Vision, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26-30 May 2015.<br/>
 <a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf"><i class="fa fa-file-text-o fa-fw"></i> Extended Abstract</a>
@@ -56,21 +56,10 @@ My current research focus is on improving the robustness of visual navigation al
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 </li>
 
-</ol> </div>
-
-<h4>Posters</h4>
-<div class="pub-list"> <ol>
-
-<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments</u>". NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments</u>". Presented at the NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
 <a href="{{ site.url }}/assets/docs/ncfrn2014_monoVTR_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 </li>
 
-</ol> </div>
+</ol>
 
-
-<!-- ## On The Side
-<ul>
-
-<li> <b>Director of Finance, <a href="http://seds.ca">SEDS-Canada</a></b>. SEDS-Canada is the Canadian branch of Students for the Exploration and Development of Space (SEDS), an international group of student-run organizations dedicated to promoting public interest in space. </li>
-
-</ul> -->
+</div>
