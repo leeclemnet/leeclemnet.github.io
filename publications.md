@@ -43,7 +43,7 @@ sitemap:
 | <a href="http://dx.doi.org/10.1109/CRV.2015.11"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
-<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Vision, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26-30 May 2015.<br/>
+<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Perception, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26-30 May 2015.<br/>
 <a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf"><i class="fa fa-file-text-o fa-fw"></i> Extended Abstract</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
