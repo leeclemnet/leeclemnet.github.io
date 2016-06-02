@@ -18,8 +18,10 @@ sitemap:
 </ol>
 
 <h3>Conference Publications</h3>
-<h4>Full-Paper-Refereed</h4>
 <ol class="continue">
+
+<li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.
+<br/><i>To appear</i>.
 
 <li> Peretroukhin V, <b>Clement L</b>, Giamou M, Kelly J. "<u>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</u>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hamburg, Germany, 28 September - 2 October 2015.<br/>
 <a href="{{ site.url }}/assets/docs/iros2015_PROBE_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
@@ -41,15 +43,6 @@ sitemap:
 | <a href="http://dx.doi.org/10.1109/CRV.2015.11"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
-<li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W. "<u>Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission</u>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
-<a href="http://dx.doi.org/10.1109/CCECE.2013.6567796"><i class="fa fa-external-link fa-fw"></i> DOI</a>
-</li>
-
-</ol>
-
-<h4>Abstract-Refereed</h4>
-<ol class="continue">
-
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Vision, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26-30 May 2015.<br/>
 <a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf"><i class="fa fa-file-text-o fa-fw"></i> Extended Abstract</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
@@ -58,6 +51,10 @@ sitemap:
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments</u>". Presented at the NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
 <a href="{{ site.url }}/assets/docs/ncfrn2014_monoVTR_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
+</li>
+
+<li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W. "<u>Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission</u>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
+<a href="http://dx.doi.org/10.1109/CCECE.2013.6567796"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
 </ol>

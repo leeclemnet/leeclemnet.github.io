@@ -11,7 +11,7 @@ sitemap:
 <li>
 <h4>Simultaneous Localization, Mapping, and Illumination Estimation</h4>
 <img src="{{ site.url }}/assets/pics/dense_stereo.png" height="128pt"/>
-I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous vehicles.
+I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous robotic vehicles.
 </li>
 
 <li>
