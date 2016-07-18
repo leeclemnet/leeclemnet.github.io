@@ -21,6 +21,9 @@ sitemap:
 <h3>Conference Publications</h3>
 <ol class="continue">
 
+<li> Lambert J, <b>Clement L</b>, Kelly J. "<u>Extrinsic Calibration of 2D Lidars Through Entropy Minimization</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016.
+<br/><i>To appear</i>.
+
 <li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.
 <br/><i>To appear</i>.
 
