@@ -60,7 +60,5 @@ sitemap:
 <li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W. "<u>Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission</u>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
 <a href="http://dx.doi.org/10.1109/CCECE.2013.6567796"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
-
-</ol>
-
-</div>
+<!--/ol>
+</div-->
