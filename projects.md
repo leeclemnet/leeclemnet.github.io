@@ -28,7 +28,7 @@ In this project I looked at how monocular vision could enable autonomous vehicle
 <a href="http://seds.ca">
 <img src="{{ site.url }}/assets/pics/seds.png" height="128pt"/>
 </a>
-SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit organization dedicated to improving the Canadian space sector. As a member of the Board of Directors, I manage the organization's finances, contribute to fundraising efforts, and administer its IT resources and website.
+SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit corporation dedicated to improving the Canadian space sector. As a member of the Board of Directors, I help direct and oversee the organization's activities, which include multiple student competitions and an annual conference. I also contribute to fundraising efforts and administer the organization's IT resources and website.
 </li>
 
 <li>
