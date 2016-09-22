@@ -21,12 +21,12 @@ sitemap:
 <h3>Conference Publications</h3>
 <ol class="continue">
 
-<li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.
-<br/><i>To appear</i>.<br/>
+<li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016. <i>To appear</i>.<br/>
+<b>Toyota Student Participation Award</b><br/>
 <a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 
-<li> Lambert J, <b>Clement L</b>, Giamou M, Kelly J. "<u>Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016.
-<br/><i>To appear</i>.<br/>
+<li> Lambert J, <b>Clement L</b>, Giamou M, Kelly J. "<u>Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016. <i>To appear</i>.<br/>
+<b>Best Student Paper Award</b><br/>
 <a href="{{ site.url }}/assets/docs/mfi2016_entropy_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 
 <li> Peretroukhin V, <b>Clement L</b>, Giamou M, Kelly J. "<u>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</u>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hamburg, Germany, 28 September - 2 October 2015.<br/>
