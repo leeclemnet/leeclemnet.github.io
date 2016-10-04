@@ -10,7 +10,7 @@ sitemap:
 <ul>
 <li>
 <h4>Simultaneous Localization, Mapping, and Illumination Estimation</h4>
-<img src="{{ site.url }}/assets/pics/dense_stereo.png" height="128pt"/>
+<img src="{{ site.url }}/assets/pics/sun_bcnn_vo.png" height="128pt"/>
 I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous robotic vehicles.
 </li>
 
@@ -24,7 +24,7 @@ In this project I looked at how monocular vision could enable autonomous vehicle
 <h3>On The Side</h3>
 <ul>
 <li>
-<h4>Director, <a href="http://seds.ca">SEDS-Canada</a></h4>
+<h4>Director, <a href="http://seds.ca">SEDS-Canada</a> (2014-Present)</h4>
 <a href="http://seds.ca">
 <img src="{{ site.url }}/assets/pics/seds.png" height="128pt"/>
 </a>
@@ -32,15 +32,16 @@ SEDS-Canada (Students for the Exploration and Development of Space) is a nationa
 </li>
 
 <li>
-<h4>Social Representative, <a href="http://arrow.utias.utoronto.ca/~asa/">UTIAS Aerospace Students Association</a></h4>
+<h4>President, <a href="http://arrow.utias.utoronto.ca/~asa/">UTIAS Aerospace Students Association</a> (2016-17)</h4>
 <a href="http://arrow.utias.utoronto.ca/~asa/">
 <img src="{{ site.url }}/assets/pics/asa.png" height="128pt"/>
 </a>
-The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As Social Representative, I organize a variety of fun events like Trivia Night, Pancake Breakfasts, and even Room Escapes.
+The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As ASA President, I coordinate a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborate with the UTIAS administration to improve the overall graduate student experience at UTIAS.
+<br/><i>Previously: Social Coordinator (2015-16)</i>
 </li>
 
 <li>
-<h4>Member, UTIAS Student Experience Committee</h4>
+<h4>Member, UTIAS Student Experience Committee (2015-16)</h4>
 The SEC is responsible for gathering data about the UTIAS student body's experiences at the Institute and making a report to the Director summarizing the data and providing suggestions for improvement.
 </li>
 
