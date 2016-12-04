@@ -33,11 +33,11 @@ SEDS-Canada (Students for the Exploration and Development of Space) is a nationa
 
 <li>
 <h4>President, <a href="http://arrow.utias.utoronto.ca/~asa/">UTIAS Aerospace Students Association</a> (2016-17)</h4>
+<i>Previously: Social Coordinator (2015-16)</i>
 <a href="http://arrow.utias.utoronto.ca/~asa/">
 <img src="{{ site.url }}/assets/pics/asa.png" height="128pt"/>
 </a>
 The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As ASA President, I coordinate a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborate with the UTIAS administration to improve the overall graduate student experience at UTIAS.
-<br/><i>Previously: Social Coordinator (2015-16)</i>
 </li>
 
 <li>
