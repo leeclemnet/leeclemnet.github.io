@@ -21,10 +21,16 @@ sitemap:
 <h3>Conference Publications</h3>
 <ol class="continue">
 
+<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". Submitted to the IEEE International Conference on Robotics and Automation (ICRA), 2017.<br/>
+<a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+|<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
+| <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
+
 <li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.<br/>
 <b>Toyota Student Participation Award</b><br/>
 <a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/iser2016_sunVO_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
+| <a href="https://arxiv.org/abs/1609.04705"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
 
 <li> Lambert J, <b>Clement L</b>, Giamou M, Kelly J. "<u>Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016.<br/>
 <b>Best Student Paper Award</b><br/>
@@ -48,6 +54,7 @@ sitemap:
 <li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "<u>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</u>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3-5 June 2015.<br/>
 <a href="{{ site.url }}/assets/docs/crv2015_battle_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/crv2015_battle_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
+|<a href="https://github.com/utiasSTARS/msckf-swf-comparison"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="http://dx.doi.org/10.1109/CRV.2015.11"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
@@ -64,5 +71,3 @@ sitemap:
 <li> Russell B, <b>Clement L</b>, Hernandez J, Byagowi A, Schor D, Kinsner W. "<u>Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission</u>". In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5-8 May 2013. <br/>
 <a href="http://dx.doi.org/10.1109/CCECE.2013.6567796"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
-<!--/ol>
-</div-->
