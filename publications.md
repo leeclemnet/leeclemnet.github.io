@@ -11,7 +11,7 @@ sitemap:
 <h3>Journal and Magazine Articles</h3>
 <ol class="start">
 
-<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 2016.<br/>
+<li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 34(1): 74–97, 2017.<br/>
 <a href="{{ site.url }}/assets/docs/jfr2016_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="http://dx.doi.org/10.1002/rob.21655"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
@@ -21,7 +21,7 @@ sitemap:
 <h3>Conference Publications</h3>
 <ol class="continue">
 
-<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". Submitted to the IEEE International Conference on Robotics and Automation (ICRA), 2017.<br/>
+<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, May 29 - June 3, 2017.<br/>
 <a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 |<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
