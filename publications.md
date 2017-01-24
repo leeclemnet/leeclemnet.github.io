@@ -8,7 +8,7 @@ sitemap:
 
 <div class="pub-list">
 
-<h3>Journal and Magazine Articles</h3>
+<h2>Journal and Magazine Articles</h2>
 <ol class="start">
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 34(1): 74–97, 2017.<br/>
@@ -18,7 +18,7 @@ sitemap:
 
 </ol>
 
-<h3>Conference Publications</h3>
+<h2>Conference Publications</h2>
 <ol class="continue">
 
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, 29 May - 3 June 2017.<br/>
