@@ -7,21 +7,21 @@ sitemap:
 ---
 
 <h2>Simultaneous Localization, Mapping, and Illumination Estimation</h2>
-<img src="{{ site.url }}/assets/pics/sun_bcnn_vo.png" height="128pt"/>
+<img src="{{ site.url }}/assets/pics/sun_bcnn_vo.png"/>
 
 I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous robotic vehicles.
 
 <h2>Monocular Visual Teach and Repeat</h2>
-<img src="{{ site.url }}/assets/pics/husky_frames.png" height="128pt"/>
+<img src="{{ site.url }}/assets/pics/monovtr.png"/>
 
 In this project I looked at how monocular vision could enable autonomous vehicles to achieve centimeter-accurate path-following over kilometer-scale outdoor routes, even under changing lighting conditions.
 
 
 <h1>On The Side</h1>
 
-<h2>Director, <a href="http://seds.ca">SEDS-Canada</a> (2014-Present)</h2>
+<h2>Director, <a href="http://seds.ca">SEDS-Canada</a> (2014-2017)</h2>
 <a href="http://seds.ca">
-<img src="{{ site.url }}/assets/pics/seds.png" height="128pt"/>
+<img src="{{ site.url }}/assets/pics/seds.jpg"/>
 </a>
 
 SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit corporation dedicated to improving the Canadian space sector. As a member of the Board of Directors, I help direct and oversee the organization's activities, which include multiple student competitions and an annual conference. I also contribute to fundraising efforts and administer the organization's IT resources and website.
@@ -29,7 +29,7 @@ SEDS-Canada (Students for the Exploration and Development of Space) is a nationa
 <h2>President, <a href="http://arrow.utias.utoronto.ca/~asa/">UTIAS Aerospace Students Association</a> (2016-17)</h2>
 
 <a href="http://arrow.utias.utoronto.ca/~asa/">
-<img src="{{ site.url }}/assets/pics/asa.png" height="128pt"/>
+<img src="{{ site.url }}/assets/pics/asa.jpg"/>
 </a>
 
 The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As ASA President, I coordinate a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborate with the UTIAS administration to improve the overall graduate student experience at UTIAS.
