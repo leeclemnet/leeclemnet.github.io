@@ -26,7 +26,7 @@ In this project I looked at how monocular vision could enable autonomous vehicle
 
 SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit corporation dedicated to improving the Canadian space sector. As a member of the Board of Directors, I help direct and oversee the organization's activities, which include multiple student competitions and an annual conference. I also contribute to fundraising efforts and administer the organization's IT resources and website.
 
-<h2>President, <a href="http://arrow.utias.utoronto.ca/~asa/">UTIAS Aerospace Students Association</a> (2016-17)</h2>
+<h2>President, <a href="http://arrow.utias.utoronto.ca/~asa/">Aerospace Students Association</a> (2016-17)</h2>
 
 <a href="http://arrow.utias.utoronto.ca/~asa/">
 <img src="{{ site.url }}/assets/pics/asa.jpg"/>
