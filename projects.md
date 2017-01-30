@@ -7,7 +7,7 @@ sitemap:
 ---
 
 <h2>Simultaneous Localization, Mapping, and Illumination Estimation</h2>
-<img src="{{ site.url }}/assets/pics/sun_bcnn_vo.png"/>
+<img src="{{ site.url }}/assets/pics/sun_bcnn.png"/>
 
 I am currently investigating how reasoning over more than just the geometry of an environment can improve visual navigation for autonomous robotic vehicles.
 
