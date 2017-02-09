@@ -1,6 +1,6 @@
 # Site Settings
 title:               "Lee Clement"
-tagline:             "a Ph.D. Student at the University of Toronto"
+tagline:             "a Ph.D. Candidate in Robotics at the University of Toronto"
 description:         "Ph.D. Candidate in Mobile Robotics at the University of Toronto"
 baseurl:             # /
 url: 			           # http://leeclem.net
@@ -8,7 +8,7 @@ github:
   repo:              "https://github.com/leeclemnet/leeclemnet.github.io"
 author:
   name:              "Lee Clement"
-  email:             "lee.clement@robotics.utias.utoronto.ca"
+  email:             "lee.clement@mail.utoronto.ca"
   twitter:           "leeclemnet"
   instagram:         
   github:            "leeclemnet"
