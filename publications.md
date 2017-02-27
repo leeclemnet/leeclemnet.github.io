@@ -22,7 +22,7 @@ sitemap:
 <ol class="continue">
 
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, 29 May - 3 June 2017.<br/>
-<a href="{{ site.url }}/assets/docs/icra2016_sunbcnn_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 |<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
 
