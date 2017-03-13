@@ -11,6 +11,11 @@ sitemap:
 <h2>Journal and Magazine Articles</h2>
 <ol class="start">
 
+<li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J "<u>Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach</u>". International Journal of Robotics Research Special Issue on Experimental Robotics, 2017, <i>invited, under review.</i> <br/>
+<sup>*</sup><i>Joint first authorship</i><br/>
+<a href="{{ site.url }}/assets/docs/ijrr2017_sunBCNNVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+</li>
+
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 34(1): 74–97, 2017.<br/>
 <a href="{{ site.url }}/assets/docs/jfr2016_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="http://dx.doi.org/10.1002/rob.21655"><i class="fa fa-external-link fa-fw"></i> DOI</a>
@@ -21,7 +26,8 @@ sitemap:
 <h2>Conference Publications</h2>
 <ol class="continue">
 
-<li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, 29 May - 3 June 2017.<br/>
+<li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, 29 May - 3 June 2017.<br/>
+<sup>*</sup><i>Joint first authorship</i><br/>
 <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 |<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
@@ -51,7 +57,8 @@ sitemap:
 | <a href="http://dx.doi.org/10.1007/978-3-319-27702-8_36"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
-<li> <b>Clement L</b>, Peretroukhin V, Lambert J, Kelly J. "<u>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</u>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3 - 5 June 2015.<br/>
+<li> <b>Clement L</b><sup>*</sup>, Peretroukhin V<sup>*</sup>, Lambert J, Kelly J. "<u>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</u>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3 - 5 June 2015.<br/>
+<sup>*</sup><i>Joint first authorship</i><br/>
 <a href="{{ site.url }}/assets/docs/crv2015_battle_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/crv2015_battle_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 |<a href="https://github.com/utiasSTARS/msckf-swf-comparison"><i class="fa fa-code-fork fa-fw"></i>Code</a>
