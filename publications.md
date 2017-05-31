@@ -13,7 +13,7 @@ sitemap:
 
 <li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J. "<u>Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach</u>". International Journal of Robotics Research Special Issue on Experimental Robotics, 2017, <i>invited, under review.</i> <br/>
 <sup>*</sup><i>Joint first authorship</i><br/>
-<a href="{{ site.url }}/assets/docs/ijrr2017_sunBCNNVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<!--<a href="{{ site.url }}/assets/docs/ijrr2017_sunBCNNVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>-->
 </li>
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 34(1): 74–97, 2017.<br/>
@@ -30,18 +30,21 @@ sitemap:
 <sup>*</sup><i>Joint first authorship</i><br/>
 <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 |<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
+| <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
+| <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 | <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
 
 <li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.<br/>
 <b>Toyota Student Participation Award</b><br/>
 <a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/iser2016_sunVO_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
-| <a href="https://arxiv.org/abs/1609.04705"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
+| <a href="http://dx.doi.org/10.1007/978-3-319-50115-4_36"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 
 <li> Lambert J, <b>Clement L</b>, Giamou M, Kelly J. "<u>Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016.<br/>
 <b>Best Student Paper Award</b><br/>
 <a href="{{ site.url }}/assets/docs/mfi2016_entropy_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/mfi2016_entropy_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
+| <a href="http://dx.doi.org/10.1109/MFI.2016.7849530"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 
 <li> Peretroukhin V, <b>Clement L</b>, Giamou M, Kelly J. "<u>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</u>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hamburg, Germany, 28 September - 2 October 2015.<br/>
 <a href="{{ site.url }}/assets/docs/iros2015_PROBE_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
@@ -67,8 +70,8 @@ sitemap:
 
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Perception, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26 - 30 May 2015.<br/>
 <a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf"><i class="fa fa-file-text-o fa-fw"></i> Abstract</a>
-| <a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
+| <a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 </li>
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments</u>". Presented at the NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session. Montreal, Quebec, 10 May 2014.<br/>
