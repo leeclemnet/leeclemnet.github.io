@@ -24,7 +24,7 @@ In this project I looked at how monocular vision could enable autonomous vehicle
 <img src="{{ site.url }}/assets/pics/seds.jpg"/>
 </a>
 
-SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit corporation dedicated to improving the Canadian space sector. As a member of the Board of Directors, I help direct and oversee the organization's activities, which include multiple student competitions and an annual conference.
+SEDS-Canada (Students for the Exploration and Development of Space) is a national student-led not-for-profit corporation dedicated to improving the Canadian space sector. As a member of the Board of Directors, I helped direct and oversee the organization's activities, which included multiple student competitions and an annual conference.
 
 <h2>President, <a href="http://arrow.utias.utoronto.ca/~asa/">Aerospace Students Association</a> (2016-17)</h2>
 
