@@ -26,23 +26,23 @@ sitemap:
 <h2>Conference Publications</h2>
 <ol class="continue">
 
-<li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), <i>to appear</i>. Singapore, 29 May - 3 June 2017.<br/>
+<li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J. "<u>Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network</u>". In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA). Singapore, 29 May - 3 June 2017.<br/>
 <sup>*</sup><i>Joint first authorship</i><br/>
-<a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="https://arxiv.org/pdf/1609.05993"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 |<a href="https://github.com/utiasSTARS/sun-bcnn-vo"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="{{ site.url }}/assets/docs/icra2017_sunbcnn_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
-| <a href="https://arxiv.org/abs/1609.05993"><i class="fa fa-external-link fa-fw"></i> arXiv</a>
+| <a href="https://doi.org/10.1109/ICRA.2017.7989235"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 
 <li> <b>Clement L</b>, Peretroukhin V, Kelly J. "<u>Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation</u>". In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER). Tokyo, Japan, 3 - 6 October 2016.<br/>
 <b>Toyota Student Participation Award</b><br/>
-<a href="{{ site.url }}/assets/docs/iser2016_sunVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="https://arxiv.org/pdf/1609.04705"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/iser2016_sunVO_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="http://dx.doi.org/10.1007/978-3-319-50115-4_36"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 
 <li> Lambert J, <b>Clement L</b>, Giamou M, Kelly J. "<u>Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors</u>". In Proceedings of the 2016 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI). Baden Baden, Germany, 19 - 21 September 2016.<br/>
 <b>Best Student Paper Award</b><br/>
-<a href="{{ site.url }}/assets/docs/mfi2016_entropy_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="https://arxiv.org/pdf/1707.08680"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/mfi2016_entropy_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="http://dx.doi.org/10.1109/MFI.2016.7849530"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 

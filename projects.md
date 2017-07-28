@@ -19,7 +19,7 @@ In this project I looked at how monocular vision could enable autonomous vehicle
 
 <h1>On The Side</h1>
 
-<h2>Re-Founder, Director, <a href="http://seds.ca">SEDS-Canada</a> (2014-2017)</h2>
+<h2>Re-Founder and Director, <a href="http://seds.ca">SEDS-Canada</a> (2014-2017)</h2>
 <a href="http://seds.ca">
 <img src="{{ site.url }}/assets/pics/seds.jpg"/>
 </a>
