@@ -17,7 +17,7 @@ sitemap:
 </li>
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery</u>". Journal of Field Robotics, 34(1): 74–97, 2017.<br/>
-<a href="{{ site.url }}/assets/docs/jfr2016_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="http://www.starslab.ca/wp-content/papercite-data/pdf/2016_clement_robust.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="http://dx.doi.org/10.1002/rob.21655"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
@@ -47,14 +47,14 @@ sitemap:
 | <a href="http://dx.doi.org/10.1109/MFI.2016.7849530"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 
 <li> Peretroukhin V, <b>Clement L</b>, Giamou M, Kelly J. "<u>PROBE: Predictive Robust Estimation for Visual-Inertial Navigation</u>". In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). Hamburg, Germany, 28 September - 2 October 2015.<br/>
-<a href="{{ site.url }}/assets/docs/iros2015_PROBE_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="http://www.starslab.ca/wp-content/papercite-data/pdf/2015_peretroukhin_probe.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/iros2015_PROBE_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="https://youtu.be/0YmdVJ0Be3Q"><i class="fa fa-film fa-fw"></i> Video</a>
 | <a href="http://dx.doi.org/10.1109/IROS.2015.7353890"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
 <li> <b>Clement L</b>, Kelly J, Barfoot T D. "<u>Monocular Visual Teach and Repeat Aided by Local Ground Planarity</u>". In Proceedings of the 10th Conference on Field and Service Robotics (FSR). Toronto, Ontario, 24 - 26 June 2015.<br/>
-<a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="https://arxiv.org/pdf/1707.08989"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/fsr2015_monoVTR_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="https://youtu.be/FU6KeWgwrZ4"><i class="fa fa-film fa-fw"></i> Talk</a>
 | <a href="http://dx.doi.org/10.1007/978-3-319-27702-8_36"><i class="fa fa-external-link fa-fw"></i> DOI</a>
@@ -62,14 +62,14 @@ sitemap:
 
 <li> <b>Clement L</b><sup>*</sup>, Peretroukhin V<sup>*</sup>, Lambert J, Kelly J. "<u>The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter</u>". In Proceedings of the 12th Conference on Computer and Robot Vision (CRV). Halifax, Nova Scotia, 3 - 5 June 2015.<br/>
 <sup>*</sup><i>Joint first authorship</i><br/>
-<a href="{{ site.url }}/assets/docs/crv2015_battle_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
+<a href="http://www.starslab.ca/wp-content/papercite-data/pdf/2015_clement_battle.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>
 | <a href="{{ site.url }}/assets/docs/crv2015_battle_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 |<a href="https://github.com/utiasSTARS/msckf-swf-comparison"><i class="fa fa-code-fork fa-fw"></i>Code</a>
 | <a href="http://dx.doi.org/10.1109/CRV.2015.11"><i class="fa fa-external-link fa-fw"></i> DOI</a>
 </li>
 
 <li> Peretroukhin V, <b>Clement L</b>, Kelly J. "<u>Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur</u>". Presented at the Workshop on Scaling Up Active Perception, IEEE International Conference on Robotics and Automation (ICRA). Seattle, Washington, 26 - 30 May 2015.<br/>
-<a href="{{ site.url }}/assets/docs/icra2015_blur_abstract.pdf"><i class="fa fa-file-text-o fa-fw"></i> Abstract</a>
+<a href="http://www.starslab.ca/wp-content/papercite-data/pdf/2015_peretroukhin_get.pdf"><i class="fa fa-file-text-o fa-fw"></i> Abstract</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_slides.pdf"><i class="fa fa-television fa-fw"></i> Slides</a>
 | <a href="{{ site.url }}/assets/docs/icra2015_blur_poster.pdf"><i class="fa fa-image fa-fw"></i> Poster</a>
 </li>
