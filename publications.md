@@ -11,6 +11,10 @@ sitemap:
 <h2>Journal and Magazine Articles</h2>
 <ol class="start">
 
+<li> Clement L, Kelly J. "<u>How to Train a CAT: Learning Canonical Appearance Transformations for Robust Direct Localization Under Illumination Change</u>". Submitted to IEEE Robotics and Automation Letters (RA-L / ICRA 2018). <br/>
+<a href="https://arxiv.org/pdf/1709.03009"><i class="fa fa-file-text-o fa-fw"></i> arXiv</a>
+</li>
+
 <li> Peretroukhin V<sup>*</sup>, <b>Clement L</b><sup>*</sup>, Kelly J. "<u>Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach</u>". International Journal of Robotics Research Special Issue on Experimental Robotics, 2017, <i>invited, under review.</i> <br/>
 <sup>*</sup><i>Joint first authorship</i><br/>
 <!--<a href="{{ site.url }}/assets/docs/ijrr2017_sunBCNNVO_paper.pdf"><i class="fa fa-file-text-o fa-fw"></i> Paper</a>-->
