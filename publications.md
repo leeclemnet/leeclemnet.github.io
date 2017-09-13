@@ -11,7 +11,7 @@ sitemap:
 <h2>Journal and Magazine Articles</h2>
 <ol class="start">
 
-<li> Clement L, Kelly J. "<u>How to Train a CAT: Learning Canonical Appearance Transformations for Robust Direct Localization Under Illumination Change</u>". Submitted to IEEE Robotics and Automation Letters (RA-L / ICRA 2018). <br/>
+<li> <b>Clement L</b>, Kelly J. "<u>How to Train a CAT: Learning Canonical Appearance Transformations for Robust Direct Localization Under Illumination Change</u>". Submitted to IEEE Robotics and Automation Letters (RA-L / ICRA 2018). <br/>
 <a href="https://arxiv.org/pdf/1709.03009"><i class="fa fa-file-text-o fa-fw"></i> arXiv</a>
 </li>
 
