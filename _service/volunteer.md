@@ -22,6 +22,6 @@ organizations:
   - title: UTIAS Student Experience Committee
     order: 3
     role: Student Member
-    years: 2015-2017
+    years: 2016-2017
     description: The SEC is responsible for gathering data about the UTIAS student body’s experiences at the Institute and making a report to the Director summarizing the data and providing suggestions for improvement.
 ---
