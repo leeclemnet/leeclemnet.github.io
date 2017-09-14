@@ -8,7 +8,7 @@ organizations:
     years: 2016-2017
     link: http://arrow.utias.utoronto.ca/~asa/
     img: /assets/img/asa.png
-    description: The ASA is responsible for representing graduate students at UTIAS and organizing athletic and social events. As ASA President, I coordinated a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborated with the UTIAS administration and other graduate student associations to improve the overall graduate student experience at UTIAS. 
+    description: The ASA represents graduate students at UTIAS and organizes athletic, social, academic and professional events. As President, I coordinated a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborated with the UTIAS administration and other graduate student associations to enhance the overall experience of graduate students at UTIAS. 
     note: "Previously: Social Coordinator (2015-16)"
 
   - title: SEDS-Canada

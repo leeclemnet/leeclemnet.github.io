@@ -50,23 +50,23 @@ For more information, visit my <a href="https://scholar.google.com/citations?use
         {% endif %}
 
         {% if publication.links.preprint %}
-            <a href="{{ publication.links.preprint }}"><i class="fa fa-file-text-o fa-fw"></i>&nbsp;Paper</a>&nbsp;
+            <a href="{{ publication.links.preprint }}"><i class="fa fa-file-text-o"></i>&nbsp;Paper</a>&nbsp;
         {% endif %}
 
         {% if publication.links.code %}
-            <a href="{{ publication.links.code }}"><i class="fa fa-code-fork fa-fw"></i>Code</a>&nbsp;
+            <a href="{{ publication.links.code }}"><i class="fa fa-code-fork"></i>&nbsp;Code</a>&nbsp;
         {% endif %}
 
         {% if publication.links.slides %}
-            <a href="{{ publication.links.slides }}"><i class="fa fa-television fa-fw"></i>&nbsp;Slides</a>&nbsp;
+            <a href="{{ publication.links.slides }}"><i class="fa fa-television"></i>&nbsp;Slides</a>&nbsp;
         {% endif %}
 
         {% if publication.links.poster %}
-            <a href="{{ publication.links.poster }}"><i class="fa fa-image fa-fw"></i>&nbsp;Poster</a>&nbsp;
+            <a href="{{ publication.links.poster }}"><i class="fa fa-image"></i>&nbsp;Poster</a>&nbsp;
         {% endif %}
 
         {% if publication.links.video %}
-            <a href="{{ publication.links.video }}"><i class="fa fa-film fa-fw"></i>&nbsp;Video</a>&nbsp;
+            <a href="{{ publication.links.video }}"><i class="fa fa-film"></i>&nbsp;Video</a>&nbsp;
         {% endif %}
 
         {% if publication.links %}
