@@ -9,7 +9,7 @@ order: 1
 <img class="col one right" style="border-radius: 25px" src="assets/img/headshot.jpg">
 <p>
 Hi there! I'm a Ph.D. Candidate in the Space and Terrestrial Autonomous Robotic Systems (<a href="http://starslab.ca/">STARS</a>)
-Lab at the University of Toronto Institute for Aerospace Studies (<a href="http://utias.utoronto.ca/">UTIAS</a>), advised by <a href="http://jonathankelly.info">Professor Jonathan Kelly</a>.
+Lab at the University of Toronto Institute for Aerospace Studies (<a href="http://utias.utoronto.ca/">UTIAS</a>), advised by <a href="http://jonathankelly.info">Prof. Jonathan Kelly</a>.
 My research interests include mobile robotics, state estimation, computer vision and machine learning.
 <p>
 </p>
