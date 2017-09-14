@@ -1,6 +1,22 @@
-<header class="masthead">
-  <h2 class="masthead-title">
-    <a href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <small class="masthead-subtitle">{{ site.tagline }}</small> {% include menu.html %}
-  </h2>
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <nav class="site-nav">
+
+      <div class="trigger">
+        {% assign sorted_pages = site.pages | sort:"order" %}
+        {% for page in sorted_pages %}
+          {% if page.title %}
+            {% unless page.title == "404: Page not found" %}
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+            {% endunless %}
+          {% endif %}
+        {% endfor %}
+
+      </div>
+    </nav>
+
+  </div>
+
 </header>

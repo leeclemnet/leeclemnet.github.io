@@ -1,7 +1,6 @@
 # Site Settings
 title:               "Lee Clement"
-tagline:             "a Ph.D. Candidate at the University of Toronto"
-description:         "Ph.D. Candidate in Mobile Robotics at the University of Toronto"
+description:         "Ph.D. Candidate in robotics at the University of Toronto"
 baseurl:             # /
 url: 			           # http://leeclem.net
 github:
@@ -15,13 +14,17 @@ author:
   facebook:          
   linkedin:          "leeclemnet"
   scholar:           "skVilbAAAAAJ"
-paginate:            5
-
-# Custom vars
-version:             3.0.0
+paginate:            15
+paginate_path:       "/blog/page:num/"
 
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
-permalink:           none
+permalink:           pretty
 plugins:             [jekyll-paginate]
+
+# Collections
+collections:
+  - research
+  - teaching
+  - service

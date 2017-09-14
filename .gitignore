@@ -2,3 +2,4 @@ _drafts/
 _site/
 __old/
 .DS_Store
+.sass-cache/

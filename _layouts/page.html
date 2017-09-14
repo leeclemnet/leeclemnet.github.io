@@ -1,9 +1,15 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<h1>
-  {{ page.title }}
-</h1>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <h5 class="post-description">{{ page.description }}</h5>
+  </header>
 
-{{ content }}
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
