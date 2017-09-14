@@ -20,7 +20,7 @@ order: 4
             <b>{{ org.role }},</b> <a href="{{ org.link }}"><b>{{ org.title }}</b></a><br/>
             <i>{{ org.years }}</i><br/>
         {% else %}
-            {{ org.title }}, <i>{{ org.years }}</i>
+            <b>{{ org.shorttitle }}</b> &mdash; {{ org.title }} &mdash; <i>{{ org.years }}</i>
         {% endif %}
 
         {% if org.description %}
