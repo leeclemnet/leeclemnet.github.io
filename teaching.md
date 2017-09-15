@@ -19,7 +19,7 @@ order: 3
         <img class="right" style="width: 40%; padding-left: 1em" src="{{course.img}}">
         {% endif %}
 
-        <b>{{ course.title }}</b><br/>
+        <b>{{ course.code }} &ndash; {{ course.title }}</b><br/>
         <i>{{ course.terms }}</i><br/><br/>
 
         {{ course.description }}<br/><br/>
