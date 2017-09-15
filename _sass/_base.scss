@@ -16,6 +16,8 @@ $base-line-height:              1.5em;
 $horizontal-spacing-unit:       50px;
 $vertical-spacing-unit:         40px;
 $nav-height:                    56px;
+$regular-font-weight:           400;
+$heavy-font-weight:             700;
 
 /* portfolio tinkering */
 $img_spacing: 5px; 
@@ -51,7 +53,7 @@ body {
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 400;
+    font-weight: $regular-font-weight;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -116,7 +118,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 400;
+    font-weight: $regular-font-weight;
 }
 
 
@@ -139,7 +141,7 @@ a {
 
 article a {
     color: $theme-color;
-    font-weight: 400;
+    font-weight: $regular-font-weight;
 
     &:hover {
         text-decoration: none;
