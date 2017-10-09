@@ -8,5 +8,5 @@ publications:
     authors: "Lee Clement and Jonathan Kelly"
     venue: "Submitted to IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (RA-L / ICRA), 2018"
     links:
-        preprint: https://arxiv.org/pdf/1709.03009
+        preprint: //arxiv.org/pdf/1709.03009
 ---

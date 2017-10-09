@@ -17,13 +17,25 @@ order: 4
         {% endif %}
 
         {% if org.role %}
-            <b>{{ org.role }} &ndash; </b> <a href="{{ org.link }}"><b>{{ org.title }}</b></a><br/>
+            <b>{{ org.role }} &ndash; </b> 
+            {% if org.link %}
+                <a href="{{ org.link }}"><b>{{ org.title }}</b></a><br/>
+            {% else %}
+                <b>{{ org.title }}</b><br/>
+            {% endif %}
+            
             <i>{{ org.years }}</i><br/>
         {% else %}
             {% if org.shorttitle %}
                 <b>{{ org.shorttitle }}</b> &ndash; {{ org.title }} &ndash; <i>{{ org.years }}</i>
             {% else %}
-                <b>{{ org.title }}</b> &ndash; <i>{{ org.years }}</i>
+                {% if org.link %}
+                    <a href="{{ org.link }}"><b>{{ org.title }}</b></a>
+                {% else %}
+                    <b>{{ org.title }}</b>
+                {% endif %}
+
+                &ndash; <i>{{ org.years }}</i>
             {% endif %}
         {% endif %}
 
@@ -32,7 +44,7 @@ order: 4
         {% endif %}
 
         {% if org.note %}
-            <i>{{ org.note }}</i><br/>
+            <br/><i>{{ org.note }}</i><br/>
         {% endif %}
 
         <br/>

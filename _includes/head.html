@@ -4,18 +4,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>
-        {% if page.title %}
-            {{ site.title }} &middot; {{ page.title }}
-        {% else %}
-            {{ site.title }} &middot; {{ site.tagline}}
-        {% endif %}
+        {% if page.title %} {{ site.title }} &middot; {{ page.title }} {% else %} {{ site.title }} &middot; {{ site.tagline}} {%
+        endif %}
     </title>
     <meta name="description" content="{{ site.description }}">
-   
+
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="apple-touch-icon" href="/assets/favicon.png">
 </head>

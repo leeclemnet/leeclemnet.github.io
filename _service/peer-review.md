@@ -12,7 +12,7 @@ organizations:
 
   - title: "IEEE International Conference on Robotics and Automation"
     shorttitle: "ICRA"
-    years: 2017
+    years: 2017-2018
 
   - title: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
     shorttitle: "IROS"
