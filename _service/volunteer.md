@@ -8,7 +8,7 @@ organizations:
     years: 2016-2017
     link: //arrow.utias.utoronto.ca/~asa/
     img: /assets/img/asa.png
-    description: The Aerospace Students' Association represents graduate students at UTIAS and organizes athletic, social, academic and professional events. As President, I coordinated a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborated with the UTIAS administration and other graduate student associations to enhance the overall experience of graduate students at UTIAS. 
+    description: The Aerospace Students' Association represents graduate students at UTIAS and organizes athletic, social, academic and professional events. As President, I coordinated a team of 14 students to organize a variety of fun events like Trivia Night, Pancake Breakfasts, BBQs, and Camping Trips, and collaborated with the UTIAS administration and other graduate student associations to enrich the overall experience of graduate students at UTIAS. 
     note: "Previously: Social Coordinator &ndash; 2015-16"
 
   - title: GECoS
