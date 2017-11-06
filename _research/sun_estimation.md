@@ -7,13 +7,13 @@ publications:
     title: "Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach"
     authors: "Valentin Peretroukhin*, Lee Clement* and Jonathan Kelly"
     venue: "International Journal of Robotics Research Special Issue on Experimental Robotics, 2017, <i>invited, under review</i>"
-    note: "*Joint first authorship"
+    note: "*Equal contribution"
   
   - date: 2017-05-29
     title: "Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network"
     authors: "Valentin Peretroukhin*, Lee Clement* and Jonathan Kelly"
     venue: "In Proceedings of the IEEE International Conference on Robotics and Automation (ICRA), Singapore, 29 May - 3 June 2017"
-    note: "*Joint first authorship"
+    note: "*Equal contribution"
     links:
         doi: //dx.doi.org/10.1109/ICRA.2017.7989235
         preprint: //arxiv.org/pdf/1609.05993

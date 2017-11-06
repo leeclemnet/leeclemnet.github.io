@@ -27,7 +27,7 @@ publications:
     title: "The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter"
     authors: "Lee Clement*, Valentin Peretroukhin*, Jacob Lambert and Jonathan Kelly"
     venue: "In Proceedings of the 12th Conference on Computer and Robot Vision (CRV), Halifax, Nova Scotia, 3 - 5 June 2015"
-    note: "*Joint first authorship"
+    note: "*Equal contribution"
     links:
       doi: //dx.doi.org/10.1109/CRV.2015.11
       preprint: //www.starslab.ca/wp-content/papercite-data/pdf/2015_clement_battle.pdf
