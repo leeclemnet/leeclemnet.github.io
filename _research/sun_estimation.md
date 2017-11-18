@@ -20,12 +20,13 @@ publications:
         code: //github.com/utiasSTARS/sun-bcnn
         slides: /assets/docs/icra2017_sunbcnn_slides.pdf
         poster: /assets/docs/icra2017_sunbcnn_poster.pdf
+        video: //youtu.be/c5XTrq3a2tE
   
   - date: 2016-10-03
     title: "Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation"
     authors: "Lee Clement, Valentin Peretroukhin, and Jonathan Kelly"
     venue: "In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER), Tokyo, Japan, 3 - 6 October 2016"
-    award: "Toyota Student Participation Award"
+    award: "Toyota Student Participation Award, Invited to IJRR Special Issue"
     links:
         doi: //dx.doi.org/10.1007/978-3-319-50115-4_36
         preprint: //arxiv.org/pdf/1609.04705
