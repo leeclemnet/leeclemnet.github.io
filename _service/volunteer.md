@@ -15,7 +15,7 @@ organizations:
     order: 2
     role: Co-founder / Aerospace Representative
     years: 2016-2017
-    link: //ulife.utoronto.ca/organizations/view/id/127414
+    link: //gecos.sa.utoronto.ca
     img: /assets/img/gecos.png
     description: The Graduate Engineering Council of Students  acts as a forum for representatives from all Engineering Graduate Student Associations at UofT to collaborate on academic, social and professional events, discuss issues that broadly affect Engineering graduate students, and represent the general interests of Engineering graduate students to the Faculty and University. 
 
