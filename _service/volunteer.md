@@ -1,7 +1,22 @@
 ---
-title: Volunteer Work
+title: Volunteer Service
 order: 2
 organizations:
+  - title: Engineering Faculty Council
+    order: 1
+    role: Graduate Student Representative
+    years: 2017-2018
+    link: //www.engineering.utoronto.ca/about/governance/faculty-council/
+    img: /assets/img/uoft.png
+    description: Faculty Council sets and approves academic policy, principles, priorities, and the general direction for the teaching and research activities of the Faculty of Applied Science and Engineering.
+
+  - title: Community Affairs & Gender Issues Standing Committee
+    order: 1
+    role: Graduate Student Representative
+    years: 2017-2018
+    link: //www.engineering.utoronto.ca/about/governance/faculty-council/
+    description: The Community Affairs & Gender Issues Standing Committee in the Faculty of Applied Science and Engineering seeks to improve and to recommend on strategies related to student recruitment and outreach and quality of life within the Faculty community, including such matters as the student experience, gender issues, diversity, safety and security, and personal conduct.
+
   - title: Aerospace Students' Association
     order: 1
     role: President

@@ -14,9 +14,9 @@ order: 4
     {% for org in service.organizations %}
         {% if org.img %}
             {% if org.link %}
-                <a href="{{ org.link }}"><img class="col one right" style="padding-left: 1em" src="{{ org.img }}"></a>
+                <a href="{{ org.link }}"><img class="col one right" style="padding-left: 1em; padding-bottom: 1em" src="{{ org.img }}"></a>
             {% else %}
-                <img class="col one right" style="padding-left: 1em" src="{{ org.img }}">
+                <img class="col one right" style="padding-left: 1em; padding-bottom: 1em" src="{{ org.img }}">
             {% endif %}
         {% endif %}
 
