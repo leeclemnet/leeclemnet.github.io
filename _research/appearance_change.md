@@ -9,4 +9,5 @@ publications:
     venue: "Submitted to IEEE Robotics and Automation Letters and IEEE International Conference on Robotics and Automation (RA-L / ICRA), 2018"
     links:
         preprint: //arxiv.org/pdf/1709.03009
+        code: //github.com/utiasSTARS/cat-net
 ---
