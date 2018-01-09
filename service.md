@@ -23,7 +23,7 @@ order: 4
         {% if org.role %}
             <b>{{ org.role }} &ndash; </b> 
             {% if org.link %}
-                <a href="{{ org.link }}"><b>{{ org.title }}</b></a><br/>
+                <a href="{{ org.link }}" target="_blank"><b>{{ org.title }}</b></a><br/>
             {% else %}
                 <b>{{ org.title }}</b><br/>
             {% endif %}
@@ -34,7 +34,7 @@ order: 4
                 <b>{{ org.shorttitle }}</b> &ndash; {{ org.title }} &ndash; <i>{{ org.years }}</i>
             {% else %}
                 {% if org.link %}
-                    <a href="{{ org.link }}"><b>{{ org.title }}</b></a>
+                    <a href="{{ org.link }}" target="_blank"><b>{{ org.title }}</b></a>
                 {% else %}
                     <b>{{ org.title }}</b>
                 {% endif %}

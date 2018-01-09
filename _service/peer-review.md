@@ -28,7 +28,7 @@ organizations:
 
   - title: "Robotics and Autonomous Systems"
     shorttitle: "RAS"
-    years: 2017
+    years: 2017-2018
 
   - title: "Robotics: Science &amp; Systems"
     shorttitle: "RSS"

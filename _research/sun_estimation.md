@@ -6,8 +6,11 @@ publications:
   - date: 2017-09-30
     title: "Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach"
     authors: "Valentin Peretroukhin*, Lee Clement* and Jonathan Kelly"
-    venue: "International Journal of Robotics Research (IJRR), Special Issue on Experimental Robotics, 2017, <i>to appear</i>"
+    venue: "International Journal of Robotics Research (IJRR), Special Issue on Experimental Robotics, 2018"
     note: "*Equal contribution"
+    links:
+        doi: //doi.org/10.1177/0278364917749732
+        code: //github.com/utiasSTARS/sun-bcnn
   
   - date: 2017-05-29
     title: "Reducing Drift in Visual Odometry by Inferring Sun Direction using a Bayesian Convolutional Neural Network"
