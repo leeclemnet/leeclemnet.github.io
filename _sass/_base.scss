@@ -144,6 +144,7 @@ article a {
     font-weight: $regular-font-weight;
 
     &:hover {
+        color: darken($theme-color, 15%);
         text-decoration: none;
     }
 }
