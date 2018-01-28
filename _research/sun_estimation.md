@@ -29,7 +29,7 @@ publications:
     title: "Improving the Accuracy of Stereo Visual Odometry Using Visual Illumination Estimation"
     authors: "Lee Clement, Valentin Peretroukhin, and Jonathan Kelly"
     venue: "In Proceedings of the 2016 International Symposium on Experimental Robotics (ISER), Tokyo, Japan, 3 - 6 October 2016"
-    award: "Toyota Student Participation Award, Invited to IJRR Special Issue"
+    award: "Toyota Student Participation Award; Invited to IJRR Special Issue"
     links:
         doi: //dx.doi.org/10.1007/978-3-319-50115-4_36
         preprint: //arxiv.org/pdf/1609.04705

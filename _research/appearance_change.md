@@ -1,5 +1,5 @@
 ---
-title: Appearance Estimation
+title: Visual Appearance Estimation
 order: 1
 img: /assets/img/appearance_change.png
 publications:
@@ -9,6 +9,7 @@ publications:
     venue: "IEEE Robotics and Automation Letters (RA-L), 2018"
     note: "To appear at the IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, 21 - 25 May 2018"
     links:
+        doi: //doi.org/10.1109/LRA.2018.2799741
         preprint: //arxiv.org/pdf/1709.03009
         code: //github.com/utiasSTARS/cat-net
 ---

@@ -50,7 +50,7 @@ For more information, visit my <a href="//scholar.google.com/citations?user={{ s
         {% endif %}
 
         {% if publication.links.preprint %}
-            <a href="{{ publication.links.preprint }}" target="_blank"><i class="fa fa-file-text-o"></i>&nbsp;Paper</a>&nbsp;
+            <a href="{{ publication.links.preprint }}" target="_blank"><i class="fa fa-file-text-o"></i>&nbsp;Preprint</a>&nbsp;
         {% endif %}
 
         {% if publication.links.code %}
