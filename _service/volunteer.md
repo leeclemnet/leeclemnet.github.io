@@ -1,6 +1,6 @@
 ---
 title: Volunteer Service
-order: 2
+order: 1
 organizations:
   - title: Engineering Faculty Council
     order: 1

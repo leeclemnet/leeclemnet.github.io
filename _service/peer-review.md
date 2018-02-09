@@ -1,6 +1,6 @@
 ---
 title: Peer Review
-order: 1
+order: 2
 organizations:
   - title: "Conference on Computer and Robot Vision"
     shorttitle: "CRV"
