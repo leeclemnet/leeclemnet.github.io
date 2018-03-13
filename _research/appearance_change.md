@@ -12,4 +12,5 @@ publications:
         doi: //doi.org/10.1109/LRA.2018.2799741
         preprint: //arxiv.org/pdf/1709.03009
         code: //github.com/utiasSTARS/cat-net
+        video: //youtu.be/ej6VNBq3dDE
 ---
