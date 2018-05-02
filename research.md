@@ -50,23 +50,23 @@ For more information, visit my <a href="//scholar.google.com/citations?user={{ s
         {% endif %}
 
         {% if publication.links.preprint %}
-            <a href="{{ publication.links.preprint }}" target="_blank"><i class="fa fa-file-text-o"></i>&nbsp;Preprint</a>&nbsp;
+            <a href="{{ publication.links.preprint }}" target="_blank"><i class="far fa-file-alt"></i>&nbsp;Preprint</a>&nbsp;
         {% endif %}
 
         {% if publication.links.code %}
-            <a href="{{ publication.links.code }}" target="_blank"><i class="fa fa-code-fork"></i>&nbsp;Code</a>&nbsp;
+            <a href="{{ publication.links.code }}" target="_blank"><i class="fas fa-code-branch"></i>&nbsp;Code</a>&nbsp;
         {% endif %}
 
         {% if publication.links.slides %}
-            <a href="{{ publication.links.slides }}" target="_blank"><i class="fa fa-television"></i>&nbsp;Slides</a>&nbsp;
+            <a href="{{ publication.links.slides }}" target="_blank"><i class="fas fa-desktop"></i>&nbsp;Slides</a>&nbsp;
         {% endif %}
 
         {% if publication.links.poster %}
-            <a href="{{ publication.links.poster }}" target="_blank"><i class="fa fa-image"></i>&nbsp;Poster</a>&nbsp;
+            <a href="{{ publication.links.poster }}" target="_blank"><i class="far fa-image"></i>&nbsp;Poster</a>&nbsp;
         {% endif %}
 
         {% if publication.links.video %}
-            <a href="{{ publication.links.video }}" target="_blank"><i class="fa fa-film"></i>&nbsp;Video</a>&nbsp;
+            <a href="{{ publication.links.video }}" target="_blank"><i class="fab fa-youtube"></i>&nbsp;Video</a>&nbsp;
         {% endif %}
 
         {% if publication.links %}
