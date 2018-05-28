@@ -16,7 +16,7 @@ organizations:
 
   - title: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
     shorttitle: "IROS"
-    years: 2014-2017
+    years: 2014-2018
 
   - title: "Journal of Field Robotics"
     shorttitle: "JFR"

@@ -13,4 +13,5 @@ publications:
         preprint: //arxiv.org/pdf/1709.03009
         code: //github.com/utiasSTARS/cat-net
         video: //youtu.be/ej6VNBq3dDE
+        poster: /assets/docs/icra2018_cat_poster.pdf
 ---
