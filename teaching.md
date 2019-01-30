@@ -16,7 +16,7 @@ order: 3
     {% for course in sorted_courses %}
 
         {% if course.img %}
-        <img class="col one right" style="padding-left: 1em; padding-bottom: 1em" style="border-radius: 25px" src="{{ course.img }}">
+        <img class="col one right" style="padding-left: 1em; padding-bottom: 1em; border-radius: 25px" src="{{ course.img }}">
         {% endif %}
 
         <b>{{ course.code }} &ndash; {{ course.title }}</b><br/>
