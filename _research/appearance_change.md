@@ -1,5 +1,5 @@
 ---
-title: Visual Appearance Estimation
+title: Appearance-Robust Visual Navigation
 order: 1
 img: /assets/img/appearance_change.png
 publications:
