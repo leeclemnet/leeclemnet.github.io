@@ -1,13 +1,21 @@
 ---
-title: Community Service
+title: Professional Activities and Community Service
 order: 1
 organizations:
+  - title: Vector Institute
+    role: Postgraduate Affiliate
+    years: 2019-2020
+    link: //vectorinstitute.ai/
+    img: /assets/img/vectorinstitute.png
+    description: The primary goal of the Vector Institute Postgraduate Affiliates Program is to foster collaboration and contributions among students and researchers with expertise in deep learning as well as machine learning and artificial intelligence more broadly. 
+
   - title: Inclusion@RSS
     role: Student Mentor
     years: 2018
     link: //www.roboticsconference.org/attending/inclusion/
     img: /assets/img/rss.png
     description: Inclusion@RSS focuses on programs that increase and sustain a broader participation in the robotics research community of groups traditionally underrepresented in robotics (including but not limited to women, LGBTQ+, underrepresented minorities, and people with disabilities), especially people early in their studies and career.
+
   - title: Engineering Faculty Council
     role: Graduate Student Representative
     years: 2017-2018
