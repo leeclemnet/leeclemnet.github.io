@@ -19,7 +19,7 @@ publications:
     venue: "In Proceedings of the 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, Germany, 28 September - 2 October 2015"
     links:
       doi: //dx.doi.org/10.1109/IROS.2015.7353890
-      preprint: //www.starslab.ca/wp-content/papercite-data/pdf/2015_peretroukhin_probe.pdf
+      preprint: //arxiv.org/pdf/1708.00174
       slides: /assets/docs/iros2015_PROBE_slides.pdf
       video: //youtu.be/0YmdVJ0Be3Q
 

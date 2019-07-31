@@ -8,7 +8,7 @@ order: 1
 <div>
 <img class="col one right" style="border-radius: 25px" src="/assets/img/headshot.jpg">
 <p>
-Hi! I'm a Ph.D. Candidate in the <a href="//starslab.ca/" target="_blank">Space and Terrestrial Autonomous Robotic Systems Lab</a> (STARS) at the <a href="//utias.utoronto.ca/" target="_blank">University of Toronto Institute for Aerospace Studies</a> (UTIAS), where I'm advised by <a href="//jonathankelly.info" target="_blank">Prof. Jonathan Kelly</a>. I'm also a Postgraduate Affiliate of the <a href="//vectorinstitute.ai" target="_blank">Vector Institute</a>.
+Hi! I'm a Ph.D. Candidate in the <a href="//starslab.ca/" target="_blank">Space and Terrestrial Autonomous Robotic Systems Lab</a> (STARS) at the <a href="//utoronto.ca/" target="_blank">University of Toronto</a>, where I'm advised by <a href="//jonathankelly.info" target="_blank">Prof. Jonathan Kelly</a>. I'm also a Postgraduate Affiliate of the <a href="//vectorinstitute.ai" target="_blank">Vector Institute</a>.
 My research interests include mobile robotics, state estimation, computer vision and machine learning.
 <p>
 </p>
