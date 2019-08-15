@@ -2,12 +2,12 @@
 title: Professional Activities and Community Service
 order: 1
 organizations:
-  - title: Vector Institute
-    role: Postgraduate Affiliate
-    years: 2019-2020
-    link: //vectorinstitute.ai/
-    img: /assets/img/vectorinstitute.png
-    description: The primary goal of the Vector Institute Postgraduate Affiliates Program is to foster collaboration and contributions among students and researchers with expertise in deep learning as well as machine learning and artificial intelligence more broadly. 
+  - title: Debates on the Future of Robotics Research
+    role: Organizer
+    years: 2019
+    link: //roboticsdebates.org/
+    img: /assets/img/debates.png
+    description: The Debates on the Future of Robotics Research Workshop brings together prominent researchers and industry leaders to formally debate key issues affecting robotics as an academic discipline and its broader social and economic contexts.
 
   - title: Inclusion@RSS
     role: Student Mentor

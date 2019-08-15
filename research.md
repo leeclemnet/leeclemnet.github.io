@@ -69,7 +69,7 @@ For more information, visit my <a href="//scholar.google.com/citations?user={{ s
             <a href="{{ publication.links.video }}" target="_blank"><i class="fab fa-youtube"></i>&nbsp;Video</a>&nbsp;
         {% endif %}
 
-        {% if publication.links %}
+        {% if publication.links.preprint or publication.links.code or publication.links.slides or publication.links.poster or publication.links.video %}
             <br/>
         {% endif %}
 
