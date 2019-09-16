@@ -7,7 +7,6 @@ publications:
     title: "Where Do We Go From Here? Debates on the Future of Robotics Research at ICRA 2019"
     authors: "Lee Clement, Valentin Peretroukhin, Matthew Giamou, John Leonard, Hadas Kress-Gazit, Jonathan How, Michael Milford, Oliver Brock, Ryan Gariepy, Angela P. Schoellig, Nicholas Roy, Hallie Siegel, Ludovic Righetti, Aude Billard and Jonathan Kelly"
     venue: "IEEE Robotics and Automation Magazine (RA-M), September 2019"
-    note: "To appear"
     links:
       doi: //dx.doi.org/10.1109/MRA.2019.2926934
   - date: 2016-09-19
