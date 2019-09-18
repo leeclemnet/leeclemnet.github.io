@@ -1,31 +1,77 @@
-# Site Settings
-title:               "Lee Clement"
-tagline:             "Ph.D. Candidate in Robotics at the University of Toronto"
-description:         "Lee Clement is a Ph.D. Candidate in Robotics at the University of Toronto, supervised by Prof. Jonathan Kelly. His research interests include mobile robotics, state estimation, computer vision and machine learning."
-baseurl:             # /
-url: 			           # http://leeclem.net
-github:
-  repo:              "https://github.com/leeclemnet/leeclemnet.github.io"
-author:
-  name:              "Lee Clement"
-  email:             "lee.clement@mail.utoronto.ca"
-  twitter:           "leeclemnet"
-  instagram:         
-  github:            "leeclemnet"
-  facebook:          
-  linkedin:          "leeclemnet"
-  scholar:           "skVilbAAAAAJ"
-paginate:            15
-paginate_path:       "/blog/page:num/"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Lee Clement
+email: lee.clement@mail.utoronto.ca
+description: >- # this means to ignore newlines until "baseurl:"
+  Lee Clement is a Ph.D. Candidate in Robotics at the 
+  University of Toronto, supervised by Prof. Jonathan Kelly. 
+  His research interests include mobile robotics, 
+  state estimation, computer vision and machine learning.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: "/assets/favicon.png"
+# github:
+#   repo: "https://github.com/leeclemnet/leeclemnet.github.io"
 
 # Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           pretty
-plugins:             [jekyll-paginate]
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
 
-# Collections
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+stylesheets:
+  - url: "/assets/css/bootstrap.min.css"
+  - url: "/assets/css/fontawesome/css/all.css"
+scripts:
+  - url: "/assets/js/jquery-3.4.1.min.js"
+  - url: "/assets/js/popper.min.js"
+  - url: "/assets/js/bootstrap.min.js"
+
+author:
+  name   : "Lee Clement"
+  avatar : "/assets/images/headshot2.jpg"
+  cv     : "/assets/documents/cv.pdf"
+  bio    : "Ph.D. Candidate in Robotics at the University of Toronto. Mobile robotics, state estimation, computer vision and machine learning."
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "//scholar.google.com/citations?user=skVilbAAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "//github.com/leeclemnet"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "//twitter.com/leeclemnet"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "//linkedin.com/in/leeclemnet"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:lee.clement@mail.utoronto.ca"
+
 collections:
-  - research
-  - teaching
-  - service
+  - sections

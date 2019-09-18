@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="home">
+  {% assign sorted_sections = site.sections | sort:"order","last" %}
+  {% for section in sorted_sections %}
+    <div class="row {{ section.background_color | default: bg-white }}">
+      <article class="container" id="{{ section.section_id }}" > 
+        <div class="row text-center"> <div class="col"> <h1> {{ section.title }} </h1> </div> </div> 
+        <div class="row"> {{ section.content }} </div>
+      </article>
+    </div>
+  {% endfor %}
+</div>

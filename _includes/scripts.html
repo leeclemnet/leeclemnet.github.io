@@ -1,0 +1,3 @@
+{% for script in site.scripts %}
+    <script src="{{ script.url | absolute_url }}"></script>
+{% endfor %}

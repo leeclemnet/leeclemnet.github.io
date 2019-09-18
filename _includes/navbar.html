@@ -1,0 +1,20 @@
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+  <div class="container">
+    <a class="navbar-brand mr-auto" href="#"> <h1>Lee Clement</h1> </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbar">
+      <ul class="navbar-nav ml-auto">
+        {% assign sorted_sections = site.sections | sort:"order","last" %}
+        {% for section in sorted_sections %}
+          <li class="nav-item">
+            <a class="nav-link" href="#{{ section.section_id }}"> <i class="{{ section.icon }}"></i> {{ section.navtitle | default: section.title }} </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
