@@ -9,8 +9,8 @@
   venue: "Presented at the Workshop on Image Matching, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, USA, 13-19 June 2019"
   type: conference
   links:
-    preprint: /assets/docs/cvpr2019_matchable_abstract.pdf
-    poster: /assets/docs/cvpr2019_matchable_poster.pdf
+    preprint: /assets/documents/cvpr2019_matchable_abstract.pdf
+    poster: /assets/documents/cvpr2019_matchable_poster.pdf
 
 - title: "How to Train a CAT: Learning Canonical Appearance Transformations for Direct Visual Localization Under Illumination Change"
   authors: "Lee Clement and Jonathan Kelly"
@@ -22,7 +22,7 @@
     preprint: //arxiv.org/pdf/1709.03009
     code: //github.com/utiasSTARS/cat-net
     video: //youtu.be/ej6VNBq3dDE
-    poster: /assets/docs/icra2018_cat_poster.pdf
+    poster: /assets/documents/icra2018_cat_poster.pdf
 
 - title: "Inferring Sun Direction to Improve Visual Odometry: A Deep Learning Approach"
   authors: "Valentin Peretroukhin*, Lee Clement* and Jonathan Kelly"
@@ -42,8 +42,8 @@
   links:
     preprint: //arxiv.org/pdf/1609.05993
     code: //github.com/utiasSTARS/sun-bcnn
-    slides: /assets/docs/icra2017_sunbcnn_slides.pdf
-    poster: /assets/docs/icra2017_sunbcnn_poster.pdf
+    slides: /assets/documents/icra2017_sunbcnn_slides.pdf
+    poster: /assets/documents/icra2017_sunbcnn_poster.pdf
     video: //youtu.be/c5XTrq3a2tE
 
 - title: "Robust Monocular Visual Teach and Repeat Aided by Local Ground Planarity and Colour-Constant Imagery"
@@ -62,7 +62,7 @@
   type: conference
   links:
     preprint: //arxiv.org/pdf/1609.04705
-    slides: /assets/docs/iser2016_sunVO_slides.pdf
+    slides: /assets/documents/iser2016_sunVO_slides.pdf
 
 - title: "Entropy-based Sim(3) Calibration of 2D Lidars to Egomotion Sensors"
   authors: "Jacob Lambert, Lee Clement, Matthew Giamou and Jonathan Kelly"
@@ -72,7 +72,7 @@
   type: conference
   links:
     preprint: //arxiv.org/pdf/1707.08680
-    slides: /assets/docs/mfi2016_entropy_slides.pdf
+    slides: /assets/documents/mfi2016_entropy_slides.pdf
 
 - title: "PROBE: Predictive Robust Estimation for Visual-Inertial Navigation"
   authors: "Valentin Peretroukhin, Lee Clement, Matthew Giamou and Jonathan Kelly"
@@ -81,7 +81,7 @@
   type: conference
   links:
     preprint: //arxiv.org/pdf/1708.00174
-    slides: /assets/docs/iros2015_PROBE_slides.pdf
+    slides: /assets/documents/iros2015_PROBE_slides.pdf
     video: //youtu.be/0YmdVJ0Be3Q
 
 - title: "The Battle for Filter Supremacy: A Comparative Study of the Multi-State Constraint Kalman Filter and the Sliding Window Filter"
@@ -93,7 +93,7 @@
   links:
     preprint: //www.starslab.ca/wp-content/papercite-data/pdf/2015_clement_battle.pdf
     code: //github.com/utiasSTARS/msckf-swf-comparison
-    slides: /assets/docs/crv2015_battle_slides.pdf
+    slides: /assets/documents/crv2015_battle_slides.pdf
 
 - title: "Get to the Point: Active Covariance Scaling for Feature Tracking Through Motion Blur"
   authors: "Valentin Peretroukhin, Lee Clement and Jonathan Kelly"
@@ -101,8 +101,8 @@
   type: conference
   links:
     preprint: //www.starslab.ca/wp-content/papercite-data/pdf/2015_peretroukhin_get.pdf
-    slides: /assets/docs/icra2015_blur_slides.pdf
-    poster: /assets/docs/icra2015_blur_poster.pdf
+    slides: /assets/documents/icra2015_blur_slides.pdf
+    poster: /assets/documents/icra2015_blur_poster.pdf
 
 - title: "Monocular Visual Teach and Repeat Aided by Local Ground Planarity"
   authors: "Lee Clement, Jonathan Kelly and Timothy D Barfoot"
@@ -111,7 +111,7 @@
   type: conference
   links:
     preprint: //arxiv.org/pdf/1707.08989
-    slides: /assets/docs/fsr2015_monoVTR_slides.pdf
+    slides: /assets/documents/fsr2015_monoVTR_slides.pdf
     video: //youtu.be/FU6KeWgwrZ4
 
 - title: "Monocular Vision for Long-range Visual Teach and Repeat in Unstructured Environments"
@@ -119,7 +119,7 @@
   venue: "Presented at the NSERC Canadian Field Robotics Network (NCFRN) and Conference on Computer and Robot Vision (CRV) Joint Poster Session Montreal, Quebec, 10 May 2014."
   type: conference
   links:
-    poster: /assets/docs/ncfrn2014_monoVTR_poster.pdf
+    poster: /assets/documents/ncfrn2014_monoVTR_poster.pdf
 
 - title: "Implementation of a Nanosatellite Attitude Determination and Control System for the T-Sat1 Mission"
   authors: "Brady Russell, Lee Clement, Joshua Hernandez, Ahmad Byagowi, Dario Schor and Witold Kinsner"
