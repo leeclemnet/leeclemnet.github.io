@@ -13,7 +13,7 @@ order: 4
 <div class="col-md-4 mr-auto my-auto">
   {% for link in site.author.links %}
     <div class="row my-2"> <div class="col text-center text-md-left"> 
-      <a href="{{ link.url }}" title="{{ link.label }}" alt="{{ link.label }}"> <i class="{{ link.icon }}"></i> {{ link.label }} </a> 
+      <a href="{{ link.url }}" title="{{ link.label }}" alt="{{ link.label }}" target="_blank"> <i class="{{ link.icon }}"></i> {{ link.label }} </a> 
     </div> </div>
   {% endfor %}
 </div>
