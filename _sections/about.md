@@ -6,7 +6,7 @@ section_id: about
 order: 1
 ---
 
-<div class="col-sm-4 mt-2 text-center">
+<div class="col-sm-4 my-2 mx-auto">
   <img class="img-responsive" width="100%" style="border-radius: 3%" src="{{ site.author.avatar | absolute_url }}">
 </div>
 

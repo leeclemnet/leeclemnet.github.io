@@ -16,9 +16,9 @@ $enable-responsive-font-sizes: true;
 
 // Custom styling
 span.anchor {
-  margin-top: -$nav-link-height*2;
+  margin-top: -$nav-link-height;
   display: block;
-  height: $nav-link-height*2;
+  height: $nav-link-height;
   visibility: hidden;
   position: relative;
 }
@@ -33,4 +33,8 @@ span.anchor {
 
 .list-entries {
   font-size: $font-size-sm;
+}
+
+.contact-links {
+  font-size: $font-size-lg;
 }
