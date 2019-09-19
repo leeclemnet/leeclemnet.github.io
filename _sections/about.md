@@ -6,8 +6,8 @@ section_id: about
 order: 1
 ---
 
-<div class="col-sm-4 my-2 mx-auto">
-  <img class="img-responsive" width="100%" style="border-radius: 3%" src="{{ site.author.avatar | absolute_url }}">
+<div class="col-sm-4 mb-4 mx-auto">
+  <img class="img-responsive shadow-sm" width="100%" style="border-radius: 3%" src="{{ site.author.avatar | absolute_url }}">
 </div>
 
 <div class="col-sm">
@@ -26,7 +26,7 @@ order: 1
   </p>
 
   <p>
-      <a class="btn btn-outline-primary mb-2" role="button" href="{{ site.author.cv | absolute_url }}" target="_blank"> <i class="fas fa-paperclip"></i> Download CV</a>
+      <a class="btn btn-outline-primary mb-2 mr-2" role="button" href="{{ site.author.cv | absolute_url }}" target="_blank"> <i class="fas fa-paperclip"></i> Download CV</a>
 
       <a class="btn btn-outline-primary mb-2" role="button" href="#contact"> <i class="fas fa-comments"></i> Contact Me</a>
   </p>

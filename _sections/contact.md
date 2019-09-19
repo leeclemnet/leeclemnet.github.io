@@ -7,7 +7,7 @@ order: 4
 ---
 
 <div class="col-md-4 ml-auto my-auto">
-  <img class="img-responsive" width="100%" style="border-radius: 3%" src="assets/images/toronto.jpg">
+  <img class="img-responsive shadow-sm" width="100%" style="border-radius: 3%" src="assets/images/toronto.jpg">
 </div>
 
 <div class="col-md-4 mr-auto my-auto">

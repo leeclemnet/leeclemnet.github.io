@@ -9,7 +9,9 @@ $link-hover-decoration: none;
 $font-family-sans-serif: Lato, "Helvetica Neue", Arial, sans-serif;
 $font-size-base: 1.1rem;
 $font-weight-base: 300;
+
 $enable-responsive-font-sizes: true;
+$enable-shadows: true;
 
 // Import bootstrap using variable overrides above
 @import "bootstrap/scss/bootstrap";
