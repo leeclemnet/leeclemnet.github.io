@@ -7,10 +7,10 @@ order: 3
 
 <div class="col">
   {% for pubtype in site.data.pubtypes %}
-    <div class="row"> <div class="col">
-    <h2> {{ pubtype.header }} </h2>
+    <div class="row mb-3"> <div class="col">
+    <h3 class="mb-3"> {{ pubtype.header }} </h3>
     
-    <div class="row"> <div class="col mx-4">
+    <div class="row list-entries"> <div class="col mx-4">
       {% assign filtered_publications = site.data.publications | where: "type", pubtype.type %}
       {% for publication in filtered_publications %}
         <p>

@@ -34,26 +34,33 @@ plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  # - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
 
 stylesheets:
-  - url: "/assets/css/bootstrap.min.css"
-  - url: "/assets/css/fontawesome/css/all.css"
+  - url: "/node_modules/@fortawesome/fontawesome-free/css/all.min.css"
+  - url: "https://fonts.googleapis.com/css?family=Lato:300,400&display=swap"
+  - url: "/assets/css/custom.css"
+
 scripts:
-  - url: "/assets/js/jquery-3.4.1.min.js"
-  - url: "/assets/js/popper.min.js"
-  - url: "/assets/js/bootstrap.min.js"
+  - url: "/node_modules/jquery/dist/jquery.min.js"
+  - url: "/node_modules/popper.js/dist/popper.min.js"
+  - url: "/node_modules/bootstrap/dist/js/bootstrap.min.js"
 
 author:
   name   : "Lee Clement"
-  avatar : "/assets/images/headshot2.jpg"
+  avatar : "/assets/images/headshot3.jpg"
   cv     : "/assets/documents/cv.pdf"
   bio    : "Ph.D. Candidate in Robotics at the University of Toronto. Mobile robotics, state estimation, computer vision and machine learning."
   links:
@@ -64,7 +71,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "//github.com/leeclemnet"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "//twitter.com/leeclemnet"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"

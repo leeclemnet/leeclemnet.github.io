@@ -1,1 +1,1 @@
-My personal website. Uses [Jekyll](//jekyllrb.com/docs/github-pages/) with modified [*folio theme](//liabogoev.com/-folio/).
+My personal website. Uses [Jekyll](//jekyllrb.com/docs/github-pages/), [Bootstrap](//getbootstrap.com) and [FontAwesome](//fontawesome.com).
