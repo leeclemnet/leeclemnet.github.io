@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   University of Toronto, supervised by Prof. Jonathan Kelly. 
   His research interests include mobile robotics, 
   state estimation, computer vision and machine learning.
+tagline: Ph.D. Candidate in Robotics at the University of Toronto.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/favicon.png"
