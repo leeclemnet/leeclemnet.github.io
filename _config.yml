@@ -64,6 +64,7 @@ author:
   avatar : "/assets/images/headshot3.jpg"
   cv     : "/assets/documents/cv.pdf"
   bio    : "Ph.D. Candidate in Robotics at the University of Toronto. Mobile robotics, state estimation, computer vision and machine learning."
+  location: "Toronto, Canada"
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"

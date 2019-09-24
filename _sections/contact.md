@@ -6,11 +6,15 @@ section_id: contact
 order: 4
 ---
 
-<div class="col-md-4 ml-auto my-auto">
-  <img class="img-responsive shadow-sm" width="100%" style="border-radius: 3%" src="assets/images/toronto.jpg">
+<div class="col-md-4 ml-auto my-auto text-center">
+  <img class="img-responsive shadow-sm mb-2" width="100%" style="border-radius: 3%" src="assets/images/toronto.jpg">
 </div>
 
 <div class="col-md-4 mr-auto my-auto">
+  <div class="row my-2"> <div class="col text-center text-md-left"> 
+    <i class="fas fa-fw fa-map-marker-alt"></i> {{ site.author.location }}
+  </div> </div>
+
   {% for link in site.author.links %}
     <div class="row my-2"> <div class="col text-center text-md-left"> 
       <a href="{{ link.url }}" title="{{ link.label }}" alt="{{ link.label }}" target="_blank"> <i class="{{ link.icon }}"></i> {{ link.label }} </a> 
