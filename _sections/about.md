@@ -11,7 +11,7 @@ order: 1
 </div>
 
 <div class="col-sm">
-  <h2> {{ page.title }} </h2>
+  <h2 class="text-center text-sm-left"> {{ page.title }} </h2>
 
   <p> 
     Hi! I'm a final-year Ph.D. Candidate in the <a href="//starslab.ca/" target="_blank">Space and Terrestrial Autonomous Robotic Systems Lab</a> (STARS) at the <a href="//utoronto.ca/" target="_blank">University of Toronto</a>, where I'm advised by <a href="//jonathankelly.info" target="_blank">Prof. Jonathan Kelly</a>. I'm also a Postgraduate Affiliate of the <a href="//vectorinstitute.ai" target="_blank">Vector Institute</a> in Toronto.
@@ -25,7 +25,7 @@ order: 1
     In my spare time I can often be found soaking up Toronto's vibrant music scene, perfecting my sourdough, or binge-listening to podcasts. 
   </p>
 
-  <p>
+  <p class="text-center text-sm-left">
       <a class="btn btn-outline-primary mb-2 mr-2" role="button" href="{{ site.author.cv | absolute_url }}" target="_blank"> <i class="fas fa-paperclip"></i> Download CV</a>
 
       <a class="btn btn-outline-primary mb-2" role="button" href="#contact"> <i class="fas fa-comments"></i> Contact Me</a>
