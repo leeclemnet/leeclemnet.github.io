@@ -50,14 +50,14 @@ sass:
     - node_modules
 
 stylesheets:
-  - url: "/node_modules/@fortawesome/fontawesome-free/css/all.min.css"
-  - url: "https://fonts.googleapis.com/css?family=Lato:300,400&display=swap"
-  - url: "/assets/css/custom.css"
+  - "/node_modules/@fortawesome/fontawesome-free/css/all.min.css"
+  - "https://fonts.googleapis.com/css?family=Lato:300,400&display=swap"
+  - "/assets/css/site.css"
 
 scripts:
-  - url: "/node_modules/jquery/dist/jquery.min.js"
-  - url: "/node_modules/popper.js/dist/popper.min.js"
-  - url: "/node_modules/bootstrap/dist/js/bootstrap.min.js"
+  - "/node_modules/jquery/dist/jquery.min.js"
+  - "/node_modules/popper.js/dist/popper.min.js"
+  - "/node_modules/bootstrap/dist/js/bootstrap.min.js"
 
 author:
   name   : "Lee Clement"

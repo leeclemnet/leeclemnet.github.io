@@ -8,8 +8,8 @@
 
 <link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="canonical">
 
-{% for stylesheet in site.stylesheets %}
-  <link href="{{ stylesheet.url | absolute_url }}" rel="stylesheet">
+{% for stylesheet_url in site.stylesheets %}
+  <link href="{{ stylesheet_url | absolute_url }}" rel="stylesheet">
 {% endfor %}
 
 <link href="{{ site.favicon }}" rel="apple-touch-icon">

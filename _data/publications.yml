@@ -1,3 +1,10 @@
+- title: "On Learning Models of Appearance for Robust Long-term Visual Navigation"
+  authors: "Lee Clement (advised by Jonathan Kelly)"
+  venue: "University of Toronto, 2020"
+  type: thesis
+  links:
+    preprint: /assets/documents/phd_thesis.pdf
+
 - title: "Where Do We Go From Here? Debates on the Future of Robotics Research at ICRA 2019"
   authors: "Lee Clement, Valentin Peretroukhin, Matthew Giamou, John Leonard, Hadas Kress-Gazit, Jonathan How, Michael Milford, Oliver Brock, Ryan Gariepy, Angela P. Schoellig, Nicholas Roy, Hallie Siegel, Ludovic Righetti, Aude Billard and Jonathan Kelly"
   venue: "IEEE Robotics and Automation Magazine (RA-M), 26(3): 7-10, 2019"
