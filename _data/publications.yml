@@ -1,3 +1,11 @@
+- title: "Learning Matchable Image Transformations for Long-term Metric Visual Localization"
+  authors: "Lee Clement, Mona Gridseth, Justin Tomasi and Jonathan Kelly"
+  venue: "IEEE Robotics and Automation Letters (RA-L), 2020"
+  type: journal
+  note: "To appear"
+  links:
+    preprint: //arxiv.org/abs/1904.01080
+
 - title: "On Learning Models of Appearance for Robust Long-term Visual Navigation"
   authors: "Lee Clement (advised by Jonathan Kelly)"
   venue: "University of Toronto, 2020"
