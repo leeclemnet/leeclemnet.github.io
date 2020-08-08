@@ -16,6 +16,8 @@ order: 3
         <p>
           {% if publication.doi %}
             <a href="//dx.doi.org/{{ publication.doi }}" target="_blank"><b>{{ publication.title }}</b></a>
+          {% elsif publication.uri %}
+            <a href="{{ publication.uri }}" target="_blank"><b>{{ publication.title }}</b></a>
           {% else %}
             <b>{{ publication.title }}</b>
           {% endif %}
