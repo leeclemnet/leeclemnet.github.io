@@ -14,13 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lee Clement
-email: lee.clement@mail.utoronto.ca
+email: clement.leopold@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Lee Clement is a Ph.D. Candidate in Robotics at the 
-  University of Toronto, supervised by Prof. Jonathan Kelly. 
-  His research interests include mobile robotics, 
-  state estimation, computer vision and machine learning.
-tagline: Ph.D. Candidate in Robotics at the University of Toronto.
+  Dr. Lee Clement is a Toronto-based roboticist interested in mobile autonomy, sensor fusion, machine learning and data justice.
+tagline: Ph.D. Roboticist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "/assets/favicon.png"
@@ -63,7 +60,7 @@ author:
   name   : "Lee Clement"
   avatar : "/assets/images/headshot3.jpg"
   cv     : "/assets/documents/cv.pdf"
-  bio    : "Ph.D. Candidate in Robotics at the University of Toronto. Mobile robotics, state estimation, computer vision and machine learning."
+  bio    : "Ph.D. roboticist interested in mobile autonomy, sensor fusion, machine learning and data justice."
   location: "Toronto, Canada"
   links:
     - label: "Google Scholar"

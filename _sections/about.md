@@ -14,7 +14,7 @@ order: 1
   <h2 class="text-center text-sm-left"> {{ page.title }} </h2>
 
   <p> 
-    Hi! I work on autonomy systems at <a href="//oxbotica.ai">Oxbotica</a> in Toronto.
+    Hi! I work on mobile autonomy systems at <a href="//oxbotica.ai">Oxbotica</a> in Toronto.
   </p>
   <p>
     I earned my Ph.D. at the <a href="//utoronto.ca/" target="_blank">University of Toronto</a>, where I was advised by <a href="//jonathankelly.info" target="_blank">Prof. Jonathan Kelly</a> and was a Postgraduate Affiliate of the <a href="//vectorinstitute.ai" target="_blank">Vector Institute</a>. 
