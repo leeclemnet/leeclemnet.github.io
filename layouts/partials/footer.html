@@ -1,0 +1,9 @@
+{{ with .Params.hide_footer }}
+<!-- No footer here! -->
+{{ else }}
+<footer class="footer">
+  <div class="container has-text-centered">
+    <p>&copy; {{ .Site.Params.Author.name }} {{ now.Year }}</p>
+  </div>
+</footer>
+{{ end }}

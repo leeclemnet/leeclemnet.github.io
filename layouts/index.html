@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="columns">
+  <div class="column is-two-fifths">
+    <div class="box has-text-centered">
+      <figure class="container image is-128x128">
+        <img class="is-rounded" src="https://bulma.io/images/placeholders/128x128.png">
+      </figure>
+      <p class="title is-4">{{ .Site.Params.Author.name }}</p>
+      <a href="mailto:clement.leopold@gmail.com" target="_blank">
+        <span class="icon is-large">
+          <i class="fas fa-2x fa-envelope"></i>
+        </span>
+      </a>
+      <a href="//www.linkedin.com/in/{{ .Site.Params.Author.Contact.linkedin }}" target="_blank">
+        <span class="icon is-large">
+          <i class="fab fa-2x fa-linkedin"></i>
+        </span>
+      </a>
+      <a href="//github.com/{{ .Site.Params.Author.Contact.github }}" target="_blank">
+        <span class="icon is-large">
+          <i class="fab fa-2x fa-github"></i>
+        </span>
+      </a>
+      <a href="//scholar.google.com/citations?user={{ .Site.Params.Author.Contact.googleScholar }}" target="_blank">
+        <span class="icon is-large">
+          <i class="fab fa-2x fa-google-scholar"></i>
+        </span>
+      </a>
+    </div>
+  </div>
+  <div class="column">
+    <p class="body">{{ .Content }}</p>
+  </div>
+</div>
+{{ end }}

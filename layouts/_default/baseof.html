@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+
+<head>
+  {{ partial "meta.html" . }}
+</head>
+
+<body>
+  {{ partial "nav.html" . }}
+
+  <main aria-role="main">
+    <section class="section ">
+      {{ block "main" . }}
+      {{ end }}
+    </section>
+  </main>
+
+  {{ partial "footer.html" . }}
+</body>
+
+</html>
