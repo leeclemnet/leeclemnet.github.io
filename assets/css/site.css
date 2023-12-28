@@ -11,11 +11,6 @@
   --spacing: 0.7rem;
 }
 
-[data-theme=light],
-:root:not([data-theme=dark]) {
-  --background-color: #fafafa;
-}
-
 nav {
   border-bottom: thin solid var(--secondary);
 }
