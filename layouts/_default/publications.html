@@ -1,0 +1,13 @@
+{{ define "main" }}
+<section id="preamble">
+  {{ .Content }}
+</section>
+{{ range .Site.Data.publications }}
+<section id="{{ .type }}">
+  <h3>{{ .header }}</h3>
+  {{ range .publications }}
+  {{ partial "publication.html" . }}
+  {{ end }}
+</section>
+{{ end }}
+{{ end }}
