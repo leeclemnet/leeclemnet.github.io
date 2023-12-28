@@ -5,11 +5,6 @@ title: "Lee Clement, PhD"
 enableEmoji: true
 enableRobotsTXT: true
 
-redirects:
-  - from: /**
-    status: 404
-    to: /404/
-
 params:
   author: "Lee Clement"
   description: "Researcher and engineer working in applied machine learning for autonomous vehicles."
