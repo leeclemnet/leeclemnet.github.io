@@ -1,0 +1,56 @@
+/* Import fonts */
+@import url("https://fonts.googleapis.com/css?family=Lato:300,400&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+
+/* Import and customize pico.css */
+@import url("https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css");
+
+:root {
+  --primary: #43a047;
+  --font-family: Lato, Tahoma, sans-serif;
+  --spacing: 0.7rem;
+}
+
+[data-theme=light],
+:root:not([data-theme=dark]) {
+  --background-color: #fafafa;
+}
+
+nav {
+  border-bottom: thin solid var(--secondary);
+}
+
+@media (min-width: 992px) {
+  main .grid {
+    grid-column-gap: 3rem;
+    grid-template-columns: auto 25%
+  }
+}
+
+a:hover {
+  --text-decoration: none;
+}
+
+h1 {
+  --typography-spacing-vertical: calc(2*var(--spacing));
+}
+
+h2 {
+  --typography-spacing-vertical: calc(1.5*var(--spacing));
+}
+
+h3 {
+  --typography-spacing-vertical: calc(1.25*var(--spacing));
+}
+
+h4 {
+  --typography-spacing-vertical: calc(1.125*var(--spacing));
+}
+
+h5 {
+  --typography-spacing-vertical: calc(1*var(--spacing));
+}
+
+h6 {
+  --typography-spacing-vertical: calc(1*var(--spacing));
+}

@@ -1,0 +1,42 @@
+---
+---
+
+// Bootstrap variable overrides
+$primary:   #3498db;
+
+$link-hover-decoration: none;
+
+$font-family-sans-serif: Lato, "Helvetica Neue", Arial, sans-serif;
+$font-size-base: 1.1rem;
+$font-weight-base: 300;
+
+$enable-responsive-font-sizes: true;
+$enable-shadows: true;
+
+// Import bootstrap using variable overrides above
+@import "bootstrap/scss/bootstrap";
+
+// Custom styling
+span.anchor {
+  margin-top: -$nav-link-height;
+  display: block;
+  height: $nav-link-height;
+  visibility: hidden;
+  position: relative;
+}
+
+.navbar {
+  border-bottom: thin solid $primary;
+}
+
+.site-title {
+    border-bottom: thick solid $primary;
+} 
+
+.list-entries {
+  font-size: $font-size-sm;
+}
+
+.contact-links {
+  font-size: $font-size-lg;
+}

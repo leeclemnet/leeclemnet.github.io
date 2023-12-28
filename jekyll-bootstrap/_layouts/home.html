@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% assign sorted_sections = site.sections | sort:"order","last" %}
+{% for section in sorted_sections %}
+  <span id="{{ section.section_id }}" class="anchor" ></span>
+  <div id="{{ section.section_id }}" class="row py-5 {{ section.background_color | default: "bg-white" }}">
+    <article class="container"> 
+      {% if section.section_id == "about" %}
+        <div class="row mb-5 text-center"> <div class="col-auto mx-auto site-title"> 
+          <h1 class="display-2"> {{ site.title }} </h1> 
+        </div> </div>
+      {% else %}
+        <div class="row mb-5 text-center"> <div class="col"> <h2> {{ section.title }} </h2> </div> </div> 
+      {% endif %}
+      <div class="row"> {{ section.content }} </div>
+    </article>
+  </div>
+{% endfor %}

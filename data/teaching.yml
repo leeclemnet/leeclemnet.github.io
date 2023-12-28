@@ -1,0 +1,24 @@
+- code: ROB 501
+  title: Computer Vision for Robotics
+  role: Course Instructor
+  terms: Fall 2018
+  description: This course provides an introduction to aspects of computer vision specifically relevant to robotics applications (i.e., robotic vision). Topics include the geometry of image formation, basic image processing operations, camera models and calibration methods, image feature detection and matching, stereo vision, structure from motion, and 3D reconstruction from a moving platform.
+
+- code: AER 521
+  title: Mobile Robotics and Perception
+  role: Course Instructor
+  terms: Winter 2018
+  description: This course addresses fundamentals of mobile robotics and sensor-based perception for applications such as space exploration, search and rescue, mining, self-driving cars, unmanned aerial vehicles, autonomous underwater vehicles, etc. Topics include sensors and their principles, state estimation, computer vision, control architectures, localization, mapping, planning, path tracking, and software frameworks.
+  note: "Previously: Teaching Assistant &ndash; Winter 2016-17"
+
+- code: Coursera
+  title: Self-Driving Cars Specialization
+  role: Subject Matter Expert
+  terms: 2018
+  description: This Specialization provides a comprehensive understanding of state-of-the-art engineering practices used in the self-driving car industry. Learners interact with real data sets from an autonomous vehicle through hands-on projects using the open source simulator CARLA. As a Subject Matter Expert, I helped create and script video lectures on topics in State Estimation and Localization for Self-Driving Cars.
+
+- code: ROB 301
+  title: Introduction to Robotics
+  role: Teaching Assistant
+  terms: Fall 2015-18
+  description: This course is intended to provide an introduction and a very interdisciplinary experience to robotics.  The structure of the course is modular and reflects the perception-control-action paradigm of robotics. Applications addressed include robotics in space, autonomous terrestrial exploration, biomedical applications such as surgery and assistive robots, and personal robotics.  The course culminates in a hardware project centered on robot integration.

@@ -1,0 +1,33 @@
+<p>
+  <small>
+    <strong>
+      {{ if .uri }}
+      <a href="{{ .uri }}" target="_blank">{{ $.title }}</a>
+      {{ else }}
+      {{ .title }}
+      {{ end }}
+    </strong>
+
+    {{ with .authors }} <br /> <i>{{ . }}</i> {{ end }}
+    {{ with .venue }} <br /> {{ . }} {{ end }}
+    {{ with .note }} <br /><i>{{ . }}</i> {{ end }}
+    {{ with .award }} <br /><strong>{{ . }}</strong> {{ end }}
+    {{ with .links }} <br />
+    {{ with .preprint }}
+    <a href="{{ . }}" target="_blank"><i class="far fa-file-alt"></i>&nbsp;Preprint</a>&nbsp;
+    {{ end }}
+    {{ with .code }}
+    <a href="{{ . }}" target="_blank"><i class="fas fa-code-branch"></i>&nbsp;Code</a>&nbsp;
+    {{ end }}
+    {{ with .slides }}
+    <a href="{{ . }}" target="_blank"><i class="fas fa-desktop"></i>&nbsp;Slides</a>&nbsp;
+    {{ end }}
+    {{ with .poster }}
+    <a href="{{ . }}" target="_blank"><i class="fas fa-image"></i>&nbsp;Poster</a>&nbsp;
+    {{ end }}
+    {{ with .video }}
+    <a href="{{ . }}" target="_blank"><i class="fab fa-youtube"></i>&nbsp;Video</a>&nbsp;
+    {{ end }}
+    {{ end }}
+  </small>
+</p>

@@ -1,0 +1,11 @@
+- title: Life-long Autonomy
+  image: /assets/images/appearance_change.png
+  description: The world around us is constantly changing. Robots need tools for coping with environmental change if they are to operate autonomously over long periods of time without human intervention.
+
+- title: Deep Learning as a Sensor
+  image: /assets/images/sun_estimation.png
+  description: Deep learning is a powerful tool, but only one of many in the roboticist's toolbox. By thinking about deep learning as a kind of extra sensor, we can combine it with existing tools to make robots work better.
+
+- title: Sensor Fusion & Estimation
+  image: /assets/images/misc_sensors.png
+  description: Real-world robots rely on a suite of sensors to understand the world around them. To fuse all of this data into a consistent belief, we need careful sensor calibration and probabilistic models.

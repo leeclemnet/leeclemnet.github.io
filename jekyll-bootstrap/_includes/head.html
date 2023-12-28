@@ -1,0 +1,15 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width initial-scale=1, shrink-to-fit=no" />
+<meta name="description" content="{{ site.description }}">
+
+<title>
+  {% if page.title %} {{ site.title }} &middot; {{ page.title }} {% else %} {{ site.title }} &middot; {{ site.tagline }} {%endif %}
+</title>
+
+<link href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" rel="canonical">
+
+{% for stylesheet_url in site.stylesheets %}
+  <link href="{{ stylesheet_url | absolute_url }}" rel="stylesheet">
+{% endfor %}
+
+<link href="{{ site.favicon }}" rel="apple-touch-icon">
