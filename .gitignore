@@ -1,8 +1,4 @@
-_drafts/
-_site/
-__old/
 .DS_Store
 .hugo_build.lock
-.sass-cache/
 resources/
 public/
