@@ -19,4 +19,4 @@ params:
     linkedin: "leeclemnet"
     github: "leeclemnet"
     googleScholar: "skVilbAAAAAJ"
-    cv: "documents/cv.pdf"
+    cv: "/documents/cv.pdf"
