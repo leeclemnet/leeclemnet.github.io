@@ -1,0 +1,5 @@
+{{ with .Page.Resources.Get .Destination }}
+{{ with .Resize (printf "%dx%d webp" .Width .Height) }}
+<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+{{ end }}
+{{ end }}

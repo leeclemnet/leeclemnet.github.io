@@ -3,7 +3,7 @@ title: Hi, I'm Lee
 emoji: ":wave:"
 ---
 
-{{< figure src="images/portrait.jpg" >}}
+![](portrait.jpg)
 
 :robot: I'm a Researcher and Engineer with 10+ years experience in Robotics and Machine Learning. I earned my PhD at the  University of Toronto.
 
