@@ -1,0 +1,12 @@
+<h3>Contact</h3>
+<p>
+  <small>
+    {{ with .Site.Params.Contact }}
+    {{ partial "contact/email.html" . }}
+    {{ partial "contact/linkedin.html" . }}
+    {{ partial "contact/github.html" . }}
+    {{ partial "contact/google-scholar.html" . }}
+    {{ partial "contact/cv.html" . }}
+    {{ end }}
+  </small>
+</p>
