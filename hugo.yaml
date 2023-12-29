@@ -12,7 +12,7 @@ enableRobotsTXT: true
 
 params:
   author: "Lee Clement"
-  description: "Researcher and engineer working in applied machine learning for autonomous vehicles."
+  description: "Dr. Lee Clement is a researcher and engineer working in applied machine learning for autonomous vehicles."
   copyyear: 2023
   contact:
     email: "clement.leopold@gmail.com"
