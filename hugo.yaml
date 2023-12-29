@@ -8,6 +8,8 @@ enableRobotsTXT: true
 params:
   author: "Lee Clement"
   description: "Researcher and engineer working in applied machine learning for autonomous vehicles."
+  cv: "documents/cv.pdf"
+  copyyear: 2023
   contact:
     email: "clement.leopold@gmail.com"
     linkedin: "leeclemnet"

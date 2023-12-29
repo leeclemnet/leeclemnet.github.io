@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Hi, I'm Lee
+emoji: ":wave:"
 ---
-# :wave: Hi, I'm Lee
 
 {{< figure src="images/portrait.jpg" >}}
 

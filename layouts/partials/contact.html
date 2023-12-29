@@ -1,0 +1,32 @@
+<h3>Contact</h3>
+<p>
+  <small>
+    {{ with .Site.Params.Contact }}
+    {{ with .email }}
+    <a href="mailto:{{ . }}" target="_blank">
+      <i class="fas fa-envelope"></i>&nbsp;Email
+    </a><br />
+    {{ end }}
+    {{ with .linkedin }}
+    <a href="//www.linkedin.com/in/{{ . }}" target="_blank">
+      <i class="fab fa-linkedin"></i>&nbsp;LinkedIn
+    </a><br />
+    {{ end }}
+    {{ with .github  }}
+    <a href="//github.com/{{ . }}" target="_blank">
+      <i class="fab fa-github"></i>&nbsp;GitHub
+    </a><br />
+    {{ end }}
+    {{ with .googleScholar }}
+    <a href="//scholar.google.com/citations?user={{ . }}" target="_blank">
+      <i class="fab fa-google-scholar"></i>&nbsp;Google Scholar
+    </a><br />
+    {{ end }}
+    {{ end }}
+    {{ with .Site.Params.cv }}
+    <a href="{{ . }}" target="_blank">
+      <i class="fas fa-paperclip"></i>&nbsp;Download CV
+    </a>
+    {{ end }}
+  </small>
+</p>

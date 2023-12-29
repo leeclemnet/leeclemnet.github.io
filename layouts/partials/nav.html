@@ -5,6 +5,8 @@
   <ul>
     <li><a href="/">About</a></li>
     <li><a href="/publications/">Publications</a></li>
-    <li><a href="/documents/cv.pdf">CV</a></li>
+    {{ with .Site.Params.cv }}
+    <li><a href="{{ . }}">CV</a></li>
+    {{ end }}
   </ul>
 </nav>

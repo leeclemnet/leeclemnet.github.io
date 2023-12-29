@@ -7,8 +7,18 @@
   {{ partial "nav.html" . }}
 
   <main class="container" aria-role="main">
-    {{ block "main" . }}
-    {{ end }}
+    <h1>
+      {{ with transform.Emojify .Params.emoji }} {{ . }} {{ end }}
+      {{ with transform.Markdownify .Title }} {{ . }} {{ end }}
+    </h1>
+    <div class="grid">
+      <section id="content">
+        {{ block "main" . }} {{ end }}
+      </section>
+      <aside id="contact">
+        {{ partial "contact.html" . }}
+      </aside>
+    </div>
   </main>
 
   {{ partial "footer.html" . }}

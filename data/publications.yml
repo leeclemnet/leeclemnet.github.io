@@ -1,13 +1,3 @@
-- type: thesis
-  header: "PhD Thesis"
-  publications:
-    - title: "On Learning Models of Appearance for Robust Long-term Visual Navigation"
-      authors: "Lee Clement (advised by Jonathan Kelly)"
-      venue: "University of Toronto, 2020"
-      uri: //hdl.handle.net/1807/100925
-      links:
-        preprint: /documents/phd_thesis.pdf
-
 - type: journal
   header: "Journal & Magazine Publications"
   publications:
@@ -138,3 +128,13 @@
       authors: "Brady Russell, Lee Clement, Joshua Hernandez, Ahmad Byagowi, Dario Schor and Witold Kinsner"
       venue: "In Proceedings of the Canadian Conference on Electrical and Computer Engineering (CCECE). Regina, Saskatchewan, 5 - 8 May 2013"
       uri: //dx.doi.org/10.1109/CCECE.2013.6567796
+
+- type: thesis
+  header: "PhD Thesis"
+  publications:
+    - title: "On Learning Models of Appearance for Robust Long-term Visual Navigation"
+      authors: "Lee Clement (advised by Jonathan Kelly)"
+      venue: "University of Toronto, 2020"
+      uri: //hdl.handle.net/1807/100925
+      links:
+        preprint: /documents/phd_thesis.pdf
