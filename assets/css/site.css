@@ -22,6 +22,10 @@ nav {
   }
 }
 
+footer {
+  background-color: var(--muted-border-color);
+}
+
 a:hover {
   --text-decoration: none;
 }
