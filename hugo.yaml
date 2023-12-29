@@ -2,6 +2,11 @@ baseURL: "https://leeclem.net/"
 languageCode: "en-us"
 title: "Lee Clement, PhD"
 
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
+
 enableEmoji: true
 enableRobotsTXT: true
 
